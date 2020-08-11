@@ -115,6 +115,92 @@
                     "name": "Laxfirth 639"
                 }
             ]
+        },
+        {
+            "name": "Rowan Pure Wool Superwash Worsted",
+            "url": "https://www.ravelry.com/yarns/library/rowan-pure-wool-superwash-worsted",
+            "colorways": [
+                {
+                    "hex": "#DDE0DF",
+                    "name": "Ivory 101"
+                },
+                {
+                    "hex": "#EADCC1",
+                    "name": "Cream 102"
+                },
+                {
+                    "hex": "#231F1F",
+                    "name": "Black 109"
+                },
+                {
+                    "hex": "#4F5052",
+                    "name": "Granite 111"
+                },
+                {
+                    "hex": "#9A9C9B",
+                    "name": "Moonstone 112"
+                },
+                {
+                    "hex": "#87256A",
+                    "name": "Magenta 119"
+                },
+                {
+                    "hex": "#831A32",
+                    "name": "Rich Red 124"
+                },
+                {
+                    "hex": "#536720",
+                    "name": "Olive 125"
+                },
+                {
+                    "hex": "#A7752E",
+                    "name": "Gold 133"
+                },
+                {
+                    "hex": "#B31A28",
+                    "name": "Cardinal 136"
+                },
+                {
+                    "hex": "#053F5F",
+                    "name": "Mallard 144"
+                },
+                {
+                    "hex": "#5E64E3",
+                    "name": "Periwinkle 146"
+                },
+                {
+                    "hex": "#2D2C49",
+                    "name": "Navy 149"
+                },
+                {
+                    "hex": "#484039",
+                    "name": "Charcoal 155"
+                },
+                {
+                    "hex": "#795642",
+                    "name": "Toffee 188"
+                },
+                {
+                    "hex": "#551832",
+                    "name": "Windsor 189"
+                },
+                {
+                    "hex": "#5E4A4C",
+                    "name": "Raisin 190"
+                },
+                {
+                    "hex": "#BA8491",
+                    "name": "Mauve Mist 191"
+                },
+                {
+                    "hex": "#64748B",
+                    "name": "Mineral 192"
+                },
+                {
+                    "hex": "#898564",
+                    "name": "Fern 193"
+                }
+            ]
         }
     ]
 }
