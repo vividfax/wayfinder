@@ -5,60 +5,114 @@
             "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk",
             "colorways": [
                 {
-                    "hex": "#0E0E0F",
+                    "hex": "#131114",
                     "name": "Phantom Black 009"
                 },
                 {
-                    "hex": "#1A2441",
+                    "hex": "#262E53",
                     "name": "True Blue 111"
                 },
                 {
-                    "hex": "#746D73",
+                    "hex": "#908890",
                     "name": "Silver Grey 137"
                 },
                 {
-                    "hex": "#817517",
+                    "hex": "#B2A337",
                     "name": "Pear Green 186"
                 },
                 {
-                    "hex": "#ABBA28",
+                    "hex": "#B2C135",
                     "name": "Lime Green 198"
                 },
                 {
-                    "hex": "#E89601",
+                    "hex": "#F2A41C",
                     "name": "Citrus Yellow 229"
                 },
                 {
-                    "hex": "#2E2733",
+                    "hex": "#483D4B",
                     "name": "Stormy Grey 373"
                 },
                 {
-                    "hex": "#7F003D",
+                    "hex": "#870049",
                     "name": "Cerise Pink 539"
                 },
                 {
-                    "hex": "#7F000A",
+                    "hex": "#A20014",
                     "name": "Crimson Red 556"
                 },
                 {
-                    "hex": "#A7003B",
+                    "hex": "#BF004B",
                     "name": "Very Berry 647"
                 },
                 {
-                    "hex": "#60AFAC",
+                    "hex": "#79C2BC",
                     "name": "Aqua Green 705"
                 },
                 {
-                    "hex": "#0A5668",
+                    "hex": "#006778",
                     "name": "Deep Teal 716"
                 },
                 {
-                    "hex": "#7F3B78",
+                    "hex": "#914A93",
                     "name": "Thistle Purple 717"
                 },
                 {
-                    "hex": "#121849",
+                    "hex": "#171F5E",
                     "name": "Harbour Blue 764"
+                }
+            ]
+        },
+        {
+            "name": "West Yorkshire Spinners The Croft Shetland Colours",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-the-croft-shetland-colours",
+            "colorways": [
+                {
+                    "hex": "#DEDCC1",
+                    "name": "Sullom 010"
+                },
+                {
+                    "hex": "#3F1D47",
+                    "name": "Quendale 151"
+                },
+                {
+                    "hex": "#2C3B67",
+                    "name": "Norwick 172"
+                },
+                {
+                    "hex": "#3B4F32",
+                    "name": "Feltar 312"
+                },
+                {
+                    "hex": "#41696B",
+                    "name": "Seafield 339"
+                },
+                {
+                    "hex": "#597692",
+                    "name": "Huxter 393"
+                },
+                {
+                    "hex": "#AE6527",
+                    "name": "Melby 515"
+                },
+                {
+                    "hex": "#460B1C",
+                    "name": "Belmont 554"
+                },
+                {
+                    "hex": "#71155C",
+                    "name": "Ollaberry 568"
+                },
+                {
+                    "hex": "#B39AA5",
+                    "name": "Tresta 583"
+                },
+                {
+                    "hex": "#BECBC5",
+                    "name": "Lerwick 637"
+                },
+                {
+                    "hex": "#47484A",
+                    "name": "Laxfirth 639"
                 }
             ]
         }

@@ -13,7 +13,7 @@ function preload() {
 
 function setup() {
 
-	colorPicker = createColorPicker("#ff744c");
+	colorPicker = createColorPicker("#b1be70");
 	colorPicker.parent("#pickerContainer");
 	colorPicker.size(200, 200);
 
@@ -24,7 +24,7 @@ function setup() {
 	rgb = createP(colorPicker.color());
 	rgb.parent("#textContainer");
 
-	printData();
+	getClosest(colorPicker.value());
 
 	cache = colorPicker.value();
 }
@@ -38,25 +38,8 @@ function draw() {
 
 	hexCode.html(colorPicker.value());
 	rgb.html(colorPicker.color());
-}
 
-function printData() {
-
-	let size = data.yarns.length;
-	console.log(data.yarns.length)
-
-	for (let i = 0; i < size; i++) {
-		printYarn(i);
-	}
-}
-
-function printYarn(i) {
-
-	let size = data.yarns[i].colorways.length;
-
-	for (let j = 0; j < size; j++) {
-		printColorway(i, j);
-	}
+	getClosest(colorPicker.value());
 }
 
 function printColorway(i, j) {
@@ -72,4 +55,60 @@ function printColorway(i, j) {
 	options = createA(link, toPrint);
 	options.parent(optionsHolder);
 	options.style("color", "#eee")
+}
+
+function colorDistance(first, second) {
+
+	let r = makeEven(red(first) - red(second));
+	let g = makeEven(green(first) - green(second));
+	let b = makeEven(blue(first) - blue(second));
+
+	return r + g + b;
+}
+
+function makeEven(n) {
+
+	if (n < 0) {
+		return n * -1;
+	}
+	return n;
+}
+
+function getClosest(original) {
+
+	let closestDistance = 766;
+	let closestData = [];
+
+	let secondDistance = 766;
+	let secondData = [];
+
+	let thirdDistance = 766;
+	let thirdData = [];
+
+	for (let i = 0; i < data.yarns.length; i++) {
+		for (let j = 0; j < data.yarns[i].colorways.length; j++) {
+
+			let distance = colorDistance(original, data.yarns[i].colorways[j].hex);
+			if (distance < closestDistance) {
+				thirdDistance = secondDistance;
+				thirdData = secondData;
+				secondDistance = closestDistance;
+				secondData = closestData;
+				closestDistance = distance;
+				closestData = [i, j];
+			} else if (distance < secondDistance) {
+				thirdDistance = secondDistance;
+				thirdData = secondData;
+				secondDistance = distance;
+				secondData = [i, j];
+			} else if (distance < thirdDistance) {
+				thirdDistance = distance;
+				thirdData = [i, j];
+			}
+		}
+	}
+	document.getElementById("optionsContainer").innerHTML = "";
+	printColorway(closestData[0], closestData[1]);
+	printColorway(secondData[0], secondData[1]);
+	printColorway(thirdData[0], thirdData[1]);
 }
