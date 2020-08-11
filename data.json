@@ -201,6 +201,204 @@
                     "name": "Fern 193"
                 }
             ]
+        },
+        {
+            "name": "West Yorkshire Spinners Wensleydale Gems DK",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-wensleydale-gems-dk",
+            "colorways": [
+                {
+                    "hex": "#E4D1B2",
+                    "name": "Ecru 001"
+                },
+                {
+                    "hex": "#232224",
+                    "name": "Jet 099"
+                },
+                {
+                    "hex": "#B0AFAD",
+                    "name": "Moon Stone 113"
+                },
+                {
+                    "hex": "#0E3B73",
+                    "name": "Cobalt 155"
+                },
+                {
+                    "hex": "#615F62",
+                    "name": "Granite 181"
+                },
+                {
+                    "hex": "#524BA0",
+                    "name": "Lapis Blue 225"
+                },
+                {
+                    "hex": "#F4606E",
+                    "name": "Zircon 253"
+                },
+                {
+                    "hex": "#FAC006",
+                    "name": "Citrine 286"
+                },
+                {
+                    "hex": "#5EC1C8",
+                    "name": "Aquamarine 321"
+                },
+                {
+                    "hex": "#CE5C19",
+                    "name": "Amber 342"
+                },
+                {
+                    "hex": "#0C5B67",
+                    "name": "Turquoise 392"
+                },
+                {
+                    "hex": "#FB6400",
+                    "name": "Fire Opal 427"
+                },
+                {
+                    "hex": "#C5A524",
+                    "name": "Peridot 487"
+                },
+                {
+                    "hex": "#AE88B6",
+                    "name": "Pink Quartz 513"
+                },
+                {
+                    "hex": "#B1006B",
+                    "name": "Tourmaline 515"
+                },
+                {
+                    "hex": "#C44CA0",
+                    "name": "Topaz 537"
+                },
+                {
+                    "hex": "#CB0032",
+                    "name": "Red Jasper 549"
+                },
+                {
+                    "hex": "#6E0025",
+                    "name": "Ruby 578"
+                },
+                {
+                    "hex": "#5C0079",
+                    "name": "Amethyst 776"
+                }
+            ]
+        },
+        {
+            "name": "Adriafil Regina",
+            "url": "https://www.ravelry.com/yarns/library/adriafil-regina",
+            "colorways": [
+                {
+                    "hex": "#D1CCCF",
+                    "name": "White 02"
+                },
+                {
+                    "hex": "#B5ABA5",
+                    "name": "Cream 11"
+                },
+                {
+                    "hex": "#9B0020",
+                    "name": "Red 17"
+                },
+                {
+                    "hex": "#8970B0",
+                    "name": "Lilac 33"
+                },
+                {
+                    "hex": "#8569CA",
+                    "name": "Strong Purple 38"
+                },
+                {
+                    "hex": "#1D407F",
+                    "name": "Avio Blue 39"
+                },
+                {
+                    "hex": "#879360",
+                    "name": "Light Green 40"
+                },
+                {
+                    "hex": "#E68222",
+                    "name": "Deep Yellow 46"
+                },
+                {
+                    "hex": "#2763BA",
+                    "name": "Deep Azure 47"
+                },
+                {
+                    "hex": "#1F3A58",
+                    "name": "Blue Petrol 51"
+                },
+                {
+                    "hex": "#48636A",
+                    "name": "Dark Grey 52"
+                },
+                {
+                    "hex": "#890A48",
+                    "name": "Bordeaux 53"
+                },
+                {
+                    "hex": "#E3913B",
+                    "name": "Camel 54"
+                },
+                {
+                    "hex": "#1D3855",
+                    "name": "Dark Petrol 55"
+                },
+                {
+                    "hex": "#4C182F",
+                    "name": "Soft Brown 56"
+                },
+                {
+                    "hex": "#332D39",
+                    "name": "Dark Brown 57"
+                },
+                {
+                    "hex": "#212123",
+                    "name": "Mélange Anthracite Grey 84"
+                },
+                {
+                    "hex": "#516F2A",
+                    "name": "Lime Green 89"
+                }
+            ]
+        },
+        {
+            "name": "West Yorkshire Spinners Bo Peep Pure",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-bo-peep-pure",
+            "colorways": [
+                {
+                    "hex": "#E9E0D6",
+                    "name": "Natural 010"
+                },
+                {
+                    "hex": "#A3989E",
+                    "name": "Mist 166"
+                },
+                {
+                    "hex": "#6B7BA5",
+                    "name": "River 194"
+                },
+                {
+                    "hex": "#C8B09B",
+                    "name": "Sand 208"
+                },
+                {
+                    "hex": "#E19C93",
+                    "name": "Blush 287"
+                },
+                {
+                    "hex": "#A9698C",
+                    "name": "Blackcurrant 319"
+                },
+                {
+                    "hex": "#76926D",
+                    "name": "Rosemary 381"
+                },
+                {
+                    "hex": "#EFAA41",
+                    "name": "Dandelion 446"
+                }
+            ]
         }
     ]
 }
