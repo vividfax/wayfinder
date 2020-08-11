@@ -1,21 +1,66 @@
 {
-    "West Yorkshire Spinners ColourLab DK": {
-        "url": "[https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk](https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk)",
-        "colorways": {
-            "#0E0E0F": "Phantom Black 009",
-            "#1A2441": "True Blue 111",
-            "#746D73": "Silver Grey 137",
-            "#817517": "Pear Green 186",
-            "#ABBA28": "Lime Green 198",
-            "#E89601": "Citrus Yellow 229",
-            "#2E2733": "Stormy Grey 373",
-            "#660032": "Cerise Pink 539",
-            "#7F000A": "Crimson Red 556",
-            "#A7003B": "Very Berry 647",
-            "#60AFAC": "Aqua Green 705",
-            "#0A5668": "Deep Teal 716",
-            "#7F3B78": "Thistle Purple 717",
-            "#121849": "Harbour Blue 764"
+    "yarns": [
+        {
+            "name": "West Yorkshire Spinners ColourLab DK",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk",
+            "colorways": [
+                {
+                    "hex": "#0E0E0F",
+                    "name": "Phantom Black 009"
+                },
+                {
+                    "hex": "#1A2441",
+                    "name": "True Blue 111"
+                },
+                {
+                    "hex": "#746D73",
+                    "name": "Silver Grey 137"
+                },
+                {
+                    "hex": "#817517",
+                    "name": "Pear Green 186"
+                },
+                {
+                    "hex": "#ABBA28",
+                    "name": "Lime Green 198"
+                },
+                {
+                    "hex": "#E89601",
+                    "name": "Citrus Yellow 229"
+                },
+                {
+                    "hex": "#2E2733",
+                    "name": "Stormy Grey 373"
+                },
+                {
+                    "hex": "#7F003D",
+                    "name": "Cerise Pink 539"
+                },
+                {
+                    "hex": "#7F000A",
+                    "name": "Crimson Red 556"
+                },
+                {
+                    "hex": "#A7003B",
+                    "name": "Very Berry 647"
+                },
+                {
+                    "hex": "#60AFAC",
+                    "name": "Aqua Green 705"
+                },
+                {
+                    "hex": "#0A5668",
+                    "name": "Deep Teal 716"
+                },
+                {
+                    "hex": "#7F3B78",
+                    "name": "Thistle Purple 717"
+                },
+                {
+                    "hex": "#121849",
+                    "name": "Harbour Blue 764"
+                }
+            ]
         }
-    }
+    ]
 }

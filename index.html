@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>colourway</title>
+	<title>Colourway</title>
 
 	<link rel="stylesheet" href="libraries/bootstrap.min.css">
 
@@ -14,23 +14,28 @@
 	<script src="sketch.js"></script>
 
 	<style>
+		body {
+			color: #444;
+		}
 	</style>
 </head>
 
 <body>
 	<div class="container">
-		<div class="col-6 offset-3 mt-5 pt-5">
+		<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 mt-5 pt-5">
 			<div class="row">
-				<div id="pickerContainer" class="col-6">
+				<div id="pickerContainer" class="col col-sm-6 mb-4 mb-sm-0">
 
 				</div>
-				<div id="textContainer" class="col-6">
+				<div id="textContainer" class="col col-sm-6">
+					<h3 style="line-height: 0.7;" class="pb-3">Colourway</h3>
+					<p>A tool that shows the closest matching yarns for a specific colour from a colour picker.</p>
 
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="col-6 offset-3 mt-5">
+	<div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 mt-5">
 		<div class="row">
 			<div id="optionsContainer" class="col">
 
