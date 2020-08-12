@@ -13,7 +13,7 @@ function preload() {
 
 function setup() {
 
-	colorPicker = createColorPicker("#be9092");
+	colorPicker = createColorPicker("#BACC33");
 	colorPicker.parent("#pickerContainer");
 	colorPicker.size(200, 200);
 
@@ -112,5 +112,5 @@ function printColorway(i, j) {
 	options = createA(link, toPrint);
 	options.parent(optionsHolder);
 	options.style("color", "#eee");
-	options.style("padding", "8px");
+	options.style("margin", "8px");
 }
