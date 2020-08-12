@@ -399,6 +399,110 @@
                     "name": "Dandelion 446"
                 }
             ]
+        },
+        {
+            "name": "BC Garn Hamelton 1",
+            "url": "https://www.ravelry.com/yarns/library/bc-garn-hamelton-no-1",
+            "colorways": [
+                {
+                    "hex": "#ECE4D9",
+                    "name": "Natural 100"
+                },
+                {
+                    "hex": "#D0C1C4",
+                    "name": "Light Grey 101"
+                },
+                {
+                    "hex": "#E17655",
+                    "name": "Dusty Red 103"
+                },
+                {
+                    "hex": "#E00C42",
+                    "name": "Cardinal Red 105"
+                },
+                {
+                    "hex": "#8456D1",
+                    "name": "Cobalt 106"
+                },
+                {
+                    "hex": "#BBA6C9",
+                    "name": "Light Lilac 107"
+                },
+                {
+                    "hex": "#7C8AB9",
+                    "name": "Jeans 108"
+                },
+                {
+                    "hex": "#5E60C6",
+                    "name": "Blue 109"
+                },
+                {
+                    "hex": "#04B5C7",
+                    "name": "Turquoise 110"
+                },
+                {
+                    "hex": "#BBC26E",
+                    "name": "Dusty Lime 111"
+                },
+                {
+                    "hex": "#F7CEC5",
+                    "name": "Baby Pink 112"
+                }
+            ]
+        },
+        {
+            "name": "BC Garn Semilla",
+            "url": "https://www.ravelry.com/yarns/library/bc-garn-semilla",
+            "colorways": [
+                {
+                    "hex": "#DBD7C8",
+                    "name": "White OB01"
+                },
+                {
+                    "hex": "#D7DAD6",
+                    "name": "Light Grey OB101"
+                },
+                {
+                    "hex": "#676576",
+                    "name": "Charcoal Grey OB102"
+                },
+                {
+                    "hex": "#927F6C",
+                    "name": "Truffle Brown OB103"
+                },
+                {
+                    "hex": "#DDC6CE",
+                    "name": "Dusky Lilac OB105"
+                },
+                {
+                    "hex": "#AFCDCC",
+                    "name": "Duck Egg Blue OB106"
+                },
+                {
+                    "hex": "#57ABBC",
+                    "name": "Turquoise OB111"
+                },
+                {
+                    "hex": "#456294",
+                    "name": "Dark Blue OB114"
+                },
+                {
+                    "hex": "#D02D00",
+                    "name": "Burnt Orange OB115"
+                },
+                {
+                    "hex": "#9A0D0D",
+                    "name": "Brick OB116"
+                },
+                {
+                    "hex": "#9AA4A5",
+                    "name": "Blue Grey OB120"
+                },
+                {
+                    "hex": "#610F2B",
+                    "name": "Burgundy OB125"
+                }
+            ]
         }
     ]
 }
