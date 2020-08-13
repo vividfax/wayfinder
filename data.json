@@ -503,6 +503,110 @@
                     "name": "Burgundy OB125"
                 }
             ]
+        },
+        {
+            "name": "Juniper Moon Farm Santa Cruz Organic Merino",
+            "url": "https://www.ravelry.com/yarns/library/juniper-moon-farm-santa-cruz-organic-merino",
+            "colorways": [
+                {
+                    "hex": "#1D2023",
+                    "name": "Anthracite 101"
+                },
+                {
+                    "hex": "#646464",
+                    "name": "Smoked 102"
+                },
+                {
+                    "hex": "#C7CABD",
+                    "name": "Palladium 103"
+                },
+                {
+                    "hex": "#DADAD0",
+                    "name": "Light Grey 104"
+                },
+                {
+                    "hex": "#F0EFD6",
+                    "name": "Ivory 105"
+                },
+                {
+                    "hex": "#DBD6B8",
+                    "name": "Alabaster 106"
+                },
+                {
+                    "hex": "#B99B89",
+                    "name": "Driftwood 107"
+                },
+                {
+                    "hex": "#9C6F55",
+                    "name": "Mahogany 108"
+                },
+                {
+                    "hex": "#C93920",
+                    "name": "Cinnamon 109"
+                },
+                {
+                    "hex": "#985A1A",
+                    "name": "Cardamom 110"
+                },
+                {
+                    "hex": "#828947",
+                    "name": "Peridot 111"
+                },
+                {
+                    "hex": "#95ADCE",
+                    "name": "Cerulean 113"
+                },
+                {
+                    "hex": "#364976",
+                    "name": "Indigo 114"
+                },
+                {
+                    "hex": "#83384C",
+                    "name": "Verbena 115"
+                },
+                {
+                    "hex": "#A72231",
+                    "name": "Saffron 116"
+                }
+            ]
+        },
+        {
+            "name": "Juniper Moon Farm Patagonia Organic Merino",
+            "url": "https://www.ravelry.com/yarns/library/juniper-moon-farm-patagonia-organic-merino",
+            "colorways": [
+                {
+                    "hex": "#A0225A",
+                    "name": "Thistle 110"
+                },
+                {
+                    "hex": "#F3EBD3",
+                    "name": "Ivory 116"
+                },
+                {
+                    "hex": "#DACDB5",
+                    "name": "Pearl 117"
+                },
+                {
+                    "hex": "#D1C4BD",
+                    "name": "Sand 118"
+                },
+                {
+                    "hex": "#8CA6D3",
+                    "name": "Icicle 119"
+                },
+                {
+                    "hex": "#A35869",
+                    "name": "Burgundy 121"
+                },
+                {
+                    "hex": "#65435F",
+                    "name": "Charoite 122"
+                },
+                {
+                    "hex": "#4696B5",
+                    "name": "Turquoise 123"
+                }
+            ]
         }
     ]
 }

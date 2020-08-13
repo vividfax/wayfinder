@@ -111,6 +111,6 @@ function printColorway(i, j) {
 	optionsHolder.style("background-color", data.yarns[i].colorways[j].hex);
 	options = createA(link, toPrint);
 	options.parent(optionsHolder);
-	options.style("color", "#eee");
+	options.style("color", "#fbfbfb");
 	options.style("margin", "8px");
 }
