@@ -607,6 +607,126 @@
                     "name": "Turquoise 123"
                 }
             ]
+        },
+        {
+            "name": "Erika Knight British Blue 100",
+            "url": "https://www.ravelry.com/yarns/library/erika-knight-british-blue-100",
+            "colorways": [
+                {
+                    "hex": "#2F454A",
+                    "name": "Park 602"
+                },
+                {
+                    "hex": "#BDC0D6",
+                    "name": "Kanoko 603"
+                },
+                {
+                    "hex": "#68546B",
+                    "name": "French 605"
+                },
+                {
+                    "hex": "#303044",
+                    "name": "Cloak 607"
+                }
+            ]
+        },
+        {
+            "name": "Blue Sky Fibers Woolstok Worsted",
+            "url": "https://www.ravelry.com/yarns/library/blue-sky-fibers-woolstok-worsted",
+            "colorways": [
+                {
+                    "hex": "#373F3F",
+                    "name": "Cast Iron 1300"
+                },
+                {
+                    "hex": "#8F989A",
+                    "name": "Storm Cloud 1301"
+                },
+                {
+                    "hex": "#AEA692",
+                    "name": "Gravel Road 1302"
+                },
+                {
+                    "hex": "#E1E5DC",
+                    "name": "Highland Fleece 1303"
+                },
+                {
+                    "hex": "#B0BCBB",
+                    "name": "Grey Harbor 1304"
+                },
+                {
+                    "hex": "#405E89",
+                    "name": "October Sky 1305"
+                },
+                {
+                    "hex": "#3E4731",
+                    "name": "Wild Thyme 1306"
+                },
+                {
+                    "hex": "#77274F",
+                    "name": "Pressed Grapes 1307"
+                },
+                {
+                    "hex": "#D9C948",
+                    "name": "Golden Meadow 1308"
+                },
+                {
+                    "hex": "#879D4C",
+                    "name": "Earth Ivy 1309"
+                },
+                {
+                    "hex": "#792838",
+                    "name": "Cranberry Compote 1310"
+                },
+                {
+                    "hex": "#EF4130",
+                    "name": "Rusted Roof 1311"
+                },
+                {
+                    "hex": "#C0C3B6",
+                    "name": "Drift Wood 1312"
+                },
+                {
+                    "hex": "#9E1417",
+                    "name": "Red Rock 1315"
+                },
+                {
+                    "hex": "#EDBD38",
+                    "name": "Spun Gold 1316"
+                },
+                {
+                    "hex": "#1B2C36",
+                    "name": "Midnight Sea 1317"
+                },
+                {
+                    "hex": "#A7C7D4",
+                    "name": "Thermal Spring 1318"
+                },
+                {
+                    "hex": "#DBB8B7",
+                    "name": "Quartz Crystal 1319"
+                },
+                {
+                    "hex": "#B0E5F1",
+                    "name": "Spring Ice 1320"
+                },
+                {
+                    "hex": "#F98D3A",
+                    "name": "Ember Glow 1323"
+                },
+                {
+                    "hex": "#B0C1D1",
+                    "name": "Morning Frost 1324"
+                },
+                {
+                    "hex": "#A56C75",
+                    "name": "Lilac Bloom 1325"
+                },
+                {
+                    "hex": "#6E602D",
+                    "name": "Mossy Green 1326"
+                }
+            ]
         }
     ]
 }
