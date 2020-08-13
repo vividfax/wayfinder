@@ -57,6 +57,7 @@ function getClosest(original) {
 		for (let j = 0; j < data.yarns[i].colorways.length; j++) {
 
 			let distance = colorDistance(original, data.yarns[i].colorways[j].hex);
+
 			if (distance < closestDistance) {
 				thirdDistance = secondDistance;
 				thirdData = secondData;
