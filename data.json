@@ -727,6 +727,190 @@
                     "name": "Mossy Green 1326"
                 }
             ]
+        },
+        {
+            "name": "West Yorkshire Spinners Bluefaced Leicester Solids DK",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-bluefaced-leicester-dk-solids",
+            "colorways": [
+                {
+                    "hex": "#E0D1BC",
+                    "name": "Snowdrop 001"
+                },
+                {
+                    "hex": "#2C2A2E",
+                    "name": "Black 099"
+                },
+                {
+                    "hex": "#90A6C7",
+                    "name": "Bluebell 101"
+                },
+                {
+                    "hex": "#E69A30",
+                    "name": "Honey 289"
+                },
+                {
+                    "hex": "#54385C",
+                    "name": "Aubergine 750"
+                }
+            ]
+        },
+        {
+            "name": "West Yorkshire Spinners Illustrious",
+            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-illustrious",
+            "colorways": [
+                {
+                    "hex": "#F0EAE2",
+                    "name": "Old Lace 10"
+                },
+                {
+                    "hex": "#354F7A",
+                    "name": "Royal 174"
+                },
+                {
+                    "hex": "#CAD4D6",
+                    "name": "Sea Glass 303"
+                },
+                {
+                    "hex": "#43431A",
+                    "name": "Fern 344"
+                },
+                {
+                    "hex": "#5D001E",
+                    "name": "Claret 508"
+                },
+                {
+                    "hex": "#955068",
+                    "name": "Garnet 394"
+                }
+            ]
+        },
+        {
+            "name": "Malabrigo Rios",
+            "url": "https://www.ravelry.com/yarns/library/malabrigo-yarn-rios",
+            "colorways": [
+                {
+                    "hex": "#BBBF0F",
+                    "name": "Apple Green 011"
+                },
+                {
+                    "hex": "#83001F",
+                    "name": "Cereza 033"
+                },
+                {
+                    "hex": "#C69600",
+                    "name": "Frank Ochre 035"
+                },
+                {
+                    "hex": "#DBCCCF",
+                    "name": "Pearl 036"
+                },
+                {
+                    "hex": "#939439",
+                    "name": "Lettuce 037"
+                },
+                {
+                    "hex": "#313A69",
+                    "name": "Paris Night 052"
+                },
+                {
+                    "hex": "#C8BCA0",
+                    "name": "Natural 063"
+                },
+                {
+                    "hex": "#ACCCBD",
+                    "name": "Water Green 083"
+                },
+                {
+                    "hex": "#F37C00",
+                    "name": "Sunset 096"
+                },
+                {
+                    "hex": "#D5B295",
+                    "name": "Sand Bank 131"
+                },
+                {
+                    "hex": "#217D9A",
+                    "name": "Reflecting Pool 133"
+                },
+                {
+                    "hex": "#8B2C72",
+                    "name": "Hollyhock 148"
+                },
+                {
+                    "hex": "#054279",
+                    "name": "Azul Profundo 150"
+                },
+                {
+                    "hex": "#2A2726",
+                    "name": "Black 195"
+                },
+                {
+                    "hex": "#01756F",
+                    "name": "Teal Feather 412"
+                },
+                {
+                    "hex": "#341482",
+                    "name": "Mattisse Blue 415"
+                },
+                {
+                    "hex": "#CF0F33",
+                    "name": "Ravelry Red 611"
+                },
+                {
+                    "hex": "#076B8B",
+                    "name": "Cian 683"
+                },
+                {
+                    "hex": "#7D7045",
+                    "name": "Yerba 688"
+                },
+                {
+                    "hex": "#CEA7C2",
+                    "name": "Valentina 689"
+                },
+                {
+                    "hex": "#16B9BE",
+                    "name": "Ankara Green 413"
+                }
+            ]
+        },
+        {
+            "name": "Lang Yarns Carpe Diem",
+            "url": "https://www.ravelry.com/yarns/library/lang-yarns-carpe-diem",
+            "colorways": [
+                {
+                    "hex": "#DCC9B8",
+                    "name": "26"
+                },
+                {
+                    "hex": "#2D3049",
+                    "name": "35"
+                },
+                {
+                    "hex": "#DA4A21",
+                    "name": "59"
+                },
+                {
+                    "hex": "#EDE1D6",
+                    "name": "94"
+                },
+                {
+                    "hex": "#C27E4E",
+                    "name": "139"
+                },
+                {
+                    "hex": "#D9BECA",
+                    "name": "148"
+                },
+                {
+                    "hex": "#154F61",
+                    "name": "288"
+                },
+                {
+                    "hex": "#AD9A90",
+                    "name": "339"
+                }
+            ]
         }
     ]
 }
