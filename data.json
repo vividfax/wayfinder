@@ -911,6 +911,222 @@
                     "name": "339"
                 }
             ]
+        },
+        {
+            "name": "Lang Yarns Merino 120 Superwash",
+            "url": "https://www.ravelry.com/yarns/library/lang-yarns-merino-120-superwash",
+            "colorways": [
+                {
+                    "hex": "#E1DBD3",
+                    "name": "1"
+                },
+                {
+                    "hex": "#EAEBD9",
+                    "name": "2"
+                },
+                {
+                    "hex": "#313235",
+                    "name": "4"
+                },
+                {
+                    "hex": "#E5AAC2",
+                    "name": "9"
+                },
+                {
+                    "hex": "#A6C6E1",
+                    "name": "20"
+                },
+                {
+                    "hex": "#6B90B5",
+                    "name": "21"
+                },
+                {
+                    "hex": "#252F48",
+                    "name": "25"
+                },
+                {
+                    "hex": "#1B4D9D",
+                    "name": "31"
+                },
+                {
+                    "hex": "#415C82",
+                    "name": "34"
+                },
+                {
+                    "hex": "#233366",
+                    "name": "35"
+                },
+                {
+                    "hex": "#B40029",
+                    "name": "60"
+                },
+                {
+                    "hex": "#D82379",
+                    "name": "85"
+                },
+                {
+                    "hex": "#C2002E",
+                    "name": "87"
+                },
+                {
+                    "hex": "#D3C4B1",
+                    "name": "96"
+                },
+                {
+                    "hex": "#0B2FA0",
+                    "name": "106"
+                },
+                {
+                    "hex": "#CCB7C4",
+                    "name": "109"
+                },
+                {
+                    "hex": "#AA9478",
+                    "name": "126"
+                },
+                {
+                    "hex": "#1F5A70",
+                    "name": "133"
+                },
+                {
+                    "hex": "#AE6C7E",
+                    "name": "148"
+                },
+                {
+                    "hex": "#F9B034",
+                    "name": "149"
+                },
+                {
+                    "hex": "#E23911",
+                    "name": "159"
+                },
+                {
+                    "hex": "#EB001E",
+                    "name": "160"
+                },
+                {
+                    "hex": "#CB0046",
+                    "name": "162"
+                },
+                {
+                    "hex": "#861020",
+                    "name": "163"
+                },
+                {
+                    "hex": "#A5C1C7",
+                    "name": "173"
+                },
+                {
+                    "hex": "#9EB8B4",
+                    "name": "174"
+                },
+                {
+                    "hex": "#2EA9D6",
+                    "name": "178"
+                },
+                {
+                    "hex": "#9A1E0D",
+                    "name": "187"
+                },
+                {
+                    "hex": "#A9A93D",
+                    "name": "198"
+                },
+                {
+                    "hex": "#11524D",
+                    "name": "217"
+                },
+                {
+                    "hex": "#D3C7B5",
+                    "name": "226"
+                },
+                {
+                    "hex": "#096F7B",
+                    "name": "272"
+                },
+                {
+                    "hex": "#7A8F93",
+                    "name": "274"
+                },
+                {
+                    "hex": "#095A60",
+                    "name": "288"
+                },
+                {
+                    "hex": "#E5B044",
+                    "name": "311"
+                },
+                {
+                    "hex": "#3D8334",
+                    "name": "316"
+                },
+                {
+                    "hex": "#3A4172",
+                    "name": "334"
+                },
+                {
+                    "hex": "#A70F7B",
+                    "name": "366"
+                },
+                {
+                    "hex": "#18A62F",
+                    "name": "416"
+                },
+                {
+                    "hex": "#BB7748",
+                    "name": "439"
+                },
+                {
+                    "hex": "#FD661E",
+                    "name": "459"
+                }
+            ]
+        },
+        {
+            "name": "Lang Yarns Merino+",
+            "url": "https://www.ravelry.com/yarns/library/lang-yarns-merino-",
+            "colorways": [
+                {
+                    "hex": "#E9E3C9",
+                    "name": "2"
+                },
+                {
+                    "hex": "#B17B82",
+                    "name": "48"
+                },
+                {
+                    "hex": "#B2001F",
+                    "name": "60"
+                },
+                {
+                    "hex": "#690C29",
+                    "name": "63"
+                },
+                {
+                    "hex": "#A50627",
+                    "name": "87"
+                },
+                {
+                    "hex": "#0A4F5B",
+                    "name": "88"
+                },
+                {
+                    "hex": "#EB991A",
+                    "name": "111"
+                },
+                {
+                    "hex": "#CFABA9",
+                    "name": "119"
+                },
+                {
+                    "hex": "#7C0245",
+                    "name": "166"
+                },
+                {
+                    "hex": "#502D50",
+                    "name": "280"
+                }
+            ]
         }
     ]
 }
