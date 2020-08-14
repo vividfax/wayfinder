@@ -21,7 +21,8 @@ function setup() {
 	hexCode.parent("#textContainer");
 	hexCode.style("text-transform", "uppercase");
 
-	rgb = createP(colorPicker.color());
+
+	rgb = createP(getRgb(colorPicker.value()));
 	rgb.parent("#textContainer");
 
 	getClosest(colorPicker.value());
@@ -37,7 +38,7 @@ function draw() {
 	cache = colorPicker.value();
 
 	hexCode.html(colorPicker.value());
-	rgb.html(colorPicker.color());
+	rgb.html(getRgb(colorPicker.color()));
 
 	getClosest(colorPicker.value());
 }
@@ -114,4 +115,10 @@ function printColorway(i, j) {
 	options.parent(optionsHolder);
 	options.style("color", "#fbfbfb");
 	options.style("margin", "8px");
+}
+
+function getRgb(color) {
+
+	let rgb = [red(color), green(color), blue(color)].join(', ');
+	return 'rgb(' + rgb + ')';
 }
