@@ -20,7 +20,6 @@ function setup() {
 	hexCode.parent("#textContainer");
 	hexCode.style("text-transform", "uppercase");
 
-
 	rgb = createP(getRgb(colorPicker.value()));
 	rgb.parent("#textContainer");
 
@@ -55,10 +54,10 @@ function printMatches(value) {
 
 function getClosest(current) {
 
-	let maxDistance = 766;
+	const maxDistance = 766;
 	let distances = [];
 
-	let numberOfMatches = 3;
+	const numberOfMatches = 3;
 	let matches = [];
 
 	for (let i = 0; i < numberOfMatches; i++) {
@@ -83,6 +82,7 @@ function getClosest(current) {
 					}
 					distances[k] = distance;
 					matches[k] = [i, j];
+
 					break;
 				}
 			}
