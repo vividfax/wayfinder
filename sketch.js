@@ -1,5 +1,4 @@
 let data;
-
 let cache;
 
 let colorPicker;
@@ -25,7 +24,7 @@ function setup() {
 	rgb = createP(getRgb(colorPicker.value()));
 	rgb.parent("#textContainer");
 
-	getClosest(colorPicker.value());
+	printMatches(colorPicker.value());
 
 	cache = colorPicker.value();
 }
@@ -40,65 +39,62 @@ function draw() {
 	hexCode.html(colorPicker.value());
 	rgb.html(getRgb(colorPicker.color()));
 
-	getClosest(colorPicker.value());
+	printMatches(colorPicker.value());
 }
 
-function getClosest(original) {
+function printMatches(value) {
 
-	let closestDistance = 766;
-	let closestData = [];
+	document.getElementById("optionsContainer").innerHTML = "";
 
-	let secondDistance = 766;
-	let secondData = [];
+	let matches = getClosest(value);
 
-	let thirdDistance = 766;
-	let thirdData = [];
+	for (let i = 0; i < matches.length / 2; i++) {
+		printColorway(matches[i * 2 + 1][0], matches[i * 2 + 1][1]);
+	}
+}
+
+function getClosest(current) {
+
+	let numberOfMatches = 3;
+	let maxDistance = 766;
+	let matches = [];
+
+	for (let i = 0; i < numberOfMatches; i++) {
+
+		matches.push(maxDistance);
+		matches.push([]);
+	}
 
 	for (let i = 0; i < data.yarns.length; i++) {
 		for (let j = 0; j < data.yarns[i].colorways.length; j++) {
 
-			let distance = colorDistance(original, data.yarns[i].colorways[j].hex);
+			let distance = colorDistance(current, data.yarns[i].colorways[j].hex);
 
-			if (distance < closestDistance) {
-				thirdDistance = secondDistance;
-				thirdData = secondData;
-				secondDistance = closestDistance;
-				secondData = closestData;
-				closestDistance = distance;
-				closestData = [i, j];
-			} else if (distance < secondDistance) {
-				thirdDistance = secondDistance;
-				thirdData = secondData;
-				secondDistance = distance;
-				secondData = [i, j];
-			} else if (distance < thirdDistance) {
-				thirdDistance = distance;
-				thirdData = [i, j];
+			for (let k = 0; k < numberOfMatches; k++) {
+				if (distance < matches[k * 2]) {
+
+					for (let l = numberOfMatches - 1; l > k; l--) {
+
+						matches[l * 2] = matches[(l - 1) * 2];
+						matches[l * 2 + 1] = matches[(l - 1) * 2 + 1];
+					}
+					matches[k * 2] = distance;
+					matches[k * 2 + 1] = [i, j];
+					break;
+				}
 			}
 		}
 	}
-	document.getElementById("optionsContainer").innerHTML = "";
-
-	printColorway(closestData[0], closestData[1]);
-	printColorway(secondData[0], secondData[1]);
-	printColorway(thirdData[0], thirdData[1]);
+	return matches;
 }
 
 function colorDistance(first, second) {
 
-	let r = makeEven(red(first) - red(second));
-	let g = makeEven(green(first) - green(second));
-	let b = makeEven(blue(first) - blue(second));
+	let r = abs(red(first) - red(second));
+	let g = abs(green(first) - green(second));
+	let b = abs(blue(first) - blue(second));
 
 	return r + g + b;
-}
-
-function makeEven(n) {
-
-	if (n < 0) {
-		return n * -1;
-	}
-	return n;
 }
 
 function printColorway(i, j) {
