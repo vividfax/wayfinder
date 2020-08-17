@@ -48,20 +48,22 @@ function printMatches(value) {
 
 	let matches = getClosest(value);
 
-	for (let i = 0; i < matches.length / 2; i++) {
-		printColorway(matches[i * 2 + 1][0], matches[i * 2 + 1][1]);
+	for (let i = 0; i < matches.length; i++) {
+		printColorway(matches[i][0], matches[i][1]);
 	}
 }
 
 function getClosest(current) {
 
-	let numberOfMatches = 3;
 	let maxDistance = 766;
+	let distances = [];
+
+	let numberOfMatches = 3;
 	let matches = [];
 
 	for (let i = 0; i < numberOfMatches; i++) {
 
-		matches.push(maxDistance);
+		distances.push(maxDistance);
 		matches.push([]);
 	}
 
@@ -71,15 +73,16 @@ function getClosest(current) {
 			let distance = colorDistance(current, data.yarns[i].colorways[j].hex);
 
 			for (let k = 0; k < numberOfMatches; k++) {
-				if (distance < matches[k * 2]) {
+
+				if (distance < distances[k]) {
 
 					for (let l = numberOfMatches - 1; l > k; l--) {
 
-						matches[l * 2] = matches[(l - 1) * 2];
-						matches[l * 2 + 1] = matches[(l - 1) * 2 + 1];
+						distances[l] = distances[l - 1];
+						matches[l] = matches[l - 1];
 					}
-					matches[k * 2] = distance;
-					matches[k * 2 + 1] = [i, j];
+					distances[k] = distance;
+					matches[k] = [i, j];
 					break;
 				}
 			}
