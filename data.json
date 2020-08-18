@@ -631,104 +631,6 @@
             ]
         },
         {
-            "name": "Blue Sky Fibers Woolstok Worsted",
-            "url": "https://www.ravelry.com/yarns/library/blue-sky-fibers-woolstok-worsted",
-            "colorways": [
-                {
-                    "hex": "#373F3F",
-                    "name": "1300 Cast Iron"
-                },
-                {
-                    "hex": "#8F989A",
-                    "name": "1301 Storm Cloud"
-                },
-                {
-                    "hex": "#AEA692",
-                    "name": "1302 Gravel Road"
-                },
-                {
-                    "hex": "#E1E5DC",
-                    "name": "1303 Highland Fleece"
-                },
-                {
-                    "hex": "#B0BCBB",
-                    "name": "1304 Grey Harbor"
-                },
-                {
-                    "hex": "#405E89",
-                    "name": "1305 October Sky"
-                },
-                {
-                    "hex": "#3E4731",
-                    "name": "1306 Wild Thyme"
-                },
-                {
-                    "hex": "#77274F",
-                    "name": "1307 Pressed Grapes"
-                },
-                {
-                    "hex": "#D9C948",
-                    "name": "1308 Golden Meadow"
-                },
-                {
-                    "hex": "#879D4C",
-                    "name": "1309 Earth Ivy"
-                },
-                {
-                    "hex": "#792838",
-                    "name": "1310 Cranberry Compote"
-                },
-                {
-                    "hex": "#EF4130",
-                    "name": "1311 Rusted Roof"
-                },
-                {
-                    "hex": "#C0C3B6",
-                    "name": "1312 Drift Wood"
-                },
-                {
-                    "hex": "#9E1417",
-                    "name": "1315 Red Rock"
-                },
-                {
-                    "hex": "#EDBD38",
-                    "name": "1316 Spun Gold"
-                },
-                {
-                    "hex": "#1B2C36",
-                    "name": "1317 Midnight Sea"
-                },
-                {
-                    "hex": "#A7C7D4",
-                    "name": "1318 Thermal Spring"
-                },
-                {
-                    "hex": "#DBB8B7",
-                    "name": "1319 Quartz Crystal"
-                },
-                {
-                    "hex": "#B0E5F1",
-                    "name": "1320 Spring Ice"
-                },
-                {
-                    "hex": "#F98D3A",
-                    "name": "1323 Ember Glow"
-                },
-                {
-                    "hex": "#B0C1D1",
-                    "name": "1324 Morning Frost"
-                },
-                {
-                    "hex": "#A56C75",
-                    "name": "1325 Lilac Bloom"
-                },
-                {
-                    "hex": "#6E602D",
-                    "name": "1326 Mossy Green"
-                }
-            ]
-        },
-        {
             "name": "West Yorkshire Spinners Bluefaced Leicester Solids DK",
             "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-bluefaced-leicester-dk-solids",
             "colorways": [
@@ -1555,6 +1457,144 @@
                 {
                     "hex": "#554B36",
                     "name": "869 Pine"
+                }
+            ]
+        },
+        {
+            "name": "Wool and the Gang Shiny Happy Cotton - Aran",
+            "url": "https://www.ravelry.com/yarns/library/wool-and-the-gang-shiny-happy-cotton",
+            "colorways": [
+                {
+                    "hex": "#d0a2bb",
+                    "name": "Mellow Mauve"
+                },
+                {
+                    "hex": "#e8e8e1",
+                    "name": "Ivory White"
+                },
+                {
+                    "hex": "#131313",
+                    "name": "Cinder Black"
+                },
+                {
+                    "hex": "#c31414",
+                    "name": "True Blood Red"
+                },
+                {
+                    "hex": "#ddd3df",
+                    "name": "Timber Wolf"
+                },
+                {
+                    "hex": "#0da7c8",
+                    "name": "Turquoise Waters"
+                },
+                {
+                    "hex": "#EB0019",
+                    "name": "Lipstick Red"
+                },
+                {
+                    "hex": "#FD9300",
+                    "name": "Vitamin C"
+                }
+            ]
+        },
+        {
+            "name": "Wool and the Gang Lil' Heal the Wool - Bulky",
+            "url": "https://www.ravelry.com/yarns/library/wool-and-the-gang-lil-heal-the-wool",
+            "colorways": [
+                {
+                    "hex": "#141113",
+                    "name": "Black Night"
+                },
+                {
+                    "hex": "#e7bbbb",
+                    "name": "Ballet Pink"
+                },
+                {
+                    "hex": "#787279",
+                    "name": "Mystic Grey"
+                },
+                {
+                    "hex": "#7E213B",
+                    "name": "Wine Red"
+                },
+                {
+                    "hex": "#6b5b46",
+                    "name": "Autumn Brown"
+                },
+                {
+                    "hex": "#CF6E32",
+                    "name": "Bleached Orange"
+                }
+            ]
+        },
+        {
+            "name": "Wool and the Gang Super Trouper Wool - Aran",
+            "url": "https://www.ravelry.com/yarns/library/wool-and-the-gang-super-trouper",
+            "colorways": [
+                {
+                    "hex": "#F5F4EE",
+                    "name": "Ivory White"
+                },
+                {
+                    "hex": "#EFB4AE",
+                    "name": "Pink Blush"
+                },
+                {
+                    "hex": "#BECAE2",
+                    "name": "Powder Blue"
+                },
+                {
+                    "hex": "#FA653E",
+                    "name": "Sandstone Orange"
+                },
+                {
+                    "hex": "#F23037",
+                    "name": "Coral Crush"
+                },
+                {
+                    "hex": "#C1CBCE",
+                    "name": "Duck Egg Blue"
+                },
+                {
+                    "hex": "#E2D4CD",
+                    "name": "Cameo Rose"
+                },
+                {
+                    "hex": "#2E3046",
+                    "name": "Midnight Blue"
+                },
+                {
+                    "hex": "#E58100",
+                    "name": "Mustard Sally"
+                },
+                {
+                    "hex": "#4C5B64",
+                    "name": "Slate Blue"
+                },
+                {
+                    "hex": "#D5CFCA",
+                    "name": "Moondust Grey"
+                },
+                {
+                    "hex": "#A74F3B",
+                    "name": "Terracotta Blush"
+                },
+                {
+                    "hex": "#296A47",
+                    "name": "Swampy Green"
+                },
+                {
+                    "hex": "#C4CFC0",
+                    "name": "Eucalyptus Green"
+                },
+                {
+                    "hex": "#DBC5A1",
+                    "name": "Blonde"
+                },
+                {
+                    "hex": "#DCCFDA",
+                    "name": "Lilac Powder"
                 }
             ]
         }
