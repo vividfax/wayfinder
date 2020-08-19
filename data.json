@@ -2047,6 +2047,174 @@
                     "name": "37 Russet"
                 }
             ]
+        },
+        {
+            "name": "Kelbourne Woolens Germantown - Aran",
+            "url": "https://www.ravelry.com/yarns/library/kelbourne-woolens-germantown",
+            "colorways": [
+                {
+                    "hex": "#F6F1D9",
+                    "name": "105 Natural"
+                },
+                {
+                    "hex": "#CCAA6D",
+                    "name": "708 Honey"
+                },
+                {
+                    "hex": "#C0AAA4",
+                    "name": "278 Tan"
+                },
+                {
+                    "hex": "#B0B0B6",
+                    "name": "059 Pebble"
+                },
+                {
+                    "hex": "#2D3947",
+                    "name": "005 Black"
+                },
+                {
+                    "hex": "#303643",
+                    "name": "410 Navy"
+                },
+                {
+                    "hex": "#212B50",
+                    "name": "419 Oxford Blue"
+                },
+                {
+                    "hex": "#5DA0B1",
+                    "name": "446 Old Blue"
+                },
+                {
+                    "hex": "#A1BCDC",
+                    "name": "455 Baby Blue"
+                },
+                {
+                    "hex": "#94DFCA",
+                    "name": "338 Jade"
+                },
+                {
+                    "hex": "#4C8889",
+                    "name": "340 Sage"
+                },
+                {
+                    "hex": "#436D62",
+                    "name": "319 Myrtle"
+                },
+                {
+                    "hex": "#196064",
+                    "name": "440 Peacock"
+                },
+                {
+                    "hex": "#318C58",
+                    "name": "315 Emerald"
+                },
+                {
+                    "hex": "#FDE01B",
+                    "name": "735 Yellow"
+                },
+                {
+                    "hex": "#F2B44D",
+                    "name": "725 Goldenrod"
+                },
+                {
+                    "hex": "#F96A53",
+                    "name": "667 Salmon"
+                },
+                {
+                    "hex": "#FCCBCC",
+                    "name": "687 Baby Pink"
+                },
+                {
+                    "hex": "#F14F78",
+                    "name": "665 Pink"
+                },
+                {
+                    "hex": "#D73342",
+                    "name": "625 Scarlet"
+                },
+                {
+                    "hex": "#902A46",
+                    "name": "613 Persian Red"
+                },
+                {
+                    "hex": "#783553",
+                    "name": "609 Rhododendron"
+                },
+                {
+                    "hex": "#5A3D7C",
+                    "name": "514 Pansy"
+                },
+                {
+                    "hex": "#A186AE",
+                    "name": "536 Lilac"
+                }
+            ]
+        },
+        {
+            "name": "Kelbourne Woolens Scout - DK",
+            "url": "https://www.ravelry.com/yarns/library/kelbourne-woolens-scout",
+            "colorways": [
+                {
+                    "hex": "#FAF2E0",
+                    "name": "105 Natural"
+                },
+                {
+                    "hex": "#DCC2AE",
+                    "name": "278 Oatmeal Heather"
+                },
+                {
+                    "hex": "#D0CDC9",
+                    "name": "058 Gray Heather"
+                },
+                {
+                    "hex": "#595C62",
+                    "name": "034 Graphite Heather"
+                },
+                {
+                    "hex": "#2B2D31",
+                    "name": "026 Charcoal Heather"
+                },
+                {
+                    "hex": "#944575",
+                    "name": "519 Orchid Heather"
+                },
+                {
+                    "hex": "#48263E",
+                    "name": "602 Mulberry Heather"
+                },
+                {
+                    "hex": "#9A2037",
+                    "name": "614 Scarlet Heather"
+                },
+                {
+                    "hex": "#F56660",
+                    "name": "667 Coral Heather"
+                },
+                {
+                    "hex": "#C69333",
+                    "name": "709 Sunflower Heather"
+                },
+                {
+                    "hex": "#ACE6B1",
+                    "name": "336 Mint Heather"
+                },
+                {
+                    "hex": "#5D6F3D",
+                    "name": "305 Moss Heather"
+                },
+                {
+                    "hex": "#2A554F",
+                    "name": "309 Juniper Heather"
+                },
+                {
+                    "hex": "#0A5474",
+                    "name": "432 Teal Heather"
+                },
+                {
+                    "hex": "#1B2544",
+                    "name": "412 Navy Heather"
+                }
+            ]
         }
     ]
 }
