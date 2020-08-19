@@ -1559,6 +1559,494 @@
                     "name": "Lilac Powder"
                 }
             ]
+        },
+        {
+            "name": "We Are Knitters The Recycled Cotton - Worsted",
+            "url": "https://www.ravelry.com/yarns/library/we-are-knitters-the-recycled-cotton",
+            "colorways": [
+                {
+                    "hex": "#F0EDE3",
+                    "name": "Natural"
+                },
+                {
+                    "hex": "#C9D0D4",
+                    "name": "Sky Blue"
+                },
+                {
+                    "hex": "#F46A5D",
+                    "name": "Spotted Pink"
+                },
+                {
+                    "hex": "#AFA38E",
+                    "name": "Grey"
+                },
+                {
+                    "hex": "#403E63",
+                    "name": "Navy Blue"
+                },
+                {
+                    "hex": "#CB6F75",
+                    "name": "Wine"
+                }
+            ]
+        },
+        {
+            "name": "We Are Knitters The Remix Yarn - Aran",
+            "url": "https://www.ravelry.com/yarns/library/we-are-knitters-the-remix",
+            "colorways": [
+                {
+                    "hex": "#EAEACF",
+                    "name": "Natural"
+                },
+                {
+                    "hex": "#EB5552",
+                    "name": "Bubblegum"
+                },
+                {
+                    "hex": "#C8DEEF",
+                    "name": "Sky Blue"
+                },
+                {
+                    "hex": "#294279",
+                    "name": "Navy Blue"
+                },
+                {
+                    "hex": "#21314D",
+                    "name": "Black"
+                }
+            ]
+        },
+        {
+            "name": "We Are Knitters The Cotton - DK",
+            "url": "https://www.ravelry.com/yarns/library/we-are-knitters-the-cotton",
+            "colorways": [
+                {
+                    "hex": "#D5DBF7",
+                    "name": "Grey"
+                },
+                {
+                    "hex": "#C4EDF8",
+                    "name": "Aquamarine"
+                },
+                {
+                    "hex": "#8E0C33",
+                    "name": "Wine"
+                },
+                {
+                    "hex": "#F2A49C",
+                    "name": "Salmon Pink"
+                },
+                {
+                    "hex": "#A9B28A",
+                    "name": "Khaki"
+                },
+                {
+                    "hex": "#1A1D22",
+                    "name": "Black"
+                },
+                {
+                    "hex": "#1C1F6F",
+                    "name": "Navy Blue"
+                },
+                {
+                    "hex": "#F0CEB6",
+                    "name": "Light Salmon"
+                },
+                {
+                    "hex": "#96D3C9",
+                    "name": "Mint"
+                },
+                {
+                    "hex": "#B63526",
+                    "name": "Terracotta"
+                },
+                {
+                    "hex": "#C5C7C3",
+                    "name": "Light Grey"
+                },
+                {
+                    "hex": "#C9A0AB",
+                    "name": "Mauve"
+                },
+                {
+                    "hex": "#A4BAD2",
+                    "name": "Denim"
+                },
+                {
+                    "hex": "#F99893",
+                    "name": "Blush"
+                },
+                {
+                    "hex": "#575834",
+                    "name": "Olive"
+                },
+                {
+                    "hex": "#DBB685",
+                    "name": "Sand"
+                },
+                {
+                    "hex": "#C4582F",
+                    "name": "Copper"
+                },
+                {
+                    "hex": "#A3310F",
+                    "name": "Dark Copper"
+                },
+                {
+                    "hex": "#FB998B",
+                    "name": "Canyon Rose"
+                },
+                {
+                    "hex": "#EDE1D7",
+                    "name": "Natural"
+                },
+                {
+                    "hex": "#FCED51",
+                    "name": "Yellow"
+                },
+                {
+                    "hex": "#FDF8D2",
+                    "name": "Light Yellow"
+                },
+                {
+                    "hex": "#2875B5",
+                    "name": "Deep Blue"
+                },
+                {
+                    "hex": "#D0C8BF",
+                    "name": "Pearl Grey"
+                },
+                {
+                    "hex": "#ACD4B1",
+                    "name": "Emerald"
+                },
+                {
+                    "hex": "#FDBB40",
+                    "name": "Mustard"
+                },
+                {
+                    "hex": "#FB6A1C",
+                    "name": "Orange"
+                }
+            ]
+        },
+        {
+            "name": "Cascade Yarns Eco+ - Bulky",
+            "url": "https://www.ravelry.com/yarns/library/cascade-yarns-eco",
+            "colorways": [
+                {
+                    "hex": "#1D1B1D",
+                    "name": "50 Black"
+                },
+                {
+                    "hex": "#991830",
+                    "name": "507 Lipstick"
+                },
+                {
+                    "hex": "#10132C",
+                    "name": "515 Navy"
+                },
+                {
+                    "hex": "#064B6F",
+                    "name": "2433 Pacific"
+                },
+                {
+                    "hex": "#1A3A24",
+                    "name": "2445 Shire"
+                },
+                {
+                    "hex": "#636427",
+                    "name": "2452 Turtle"
+                },
+                {
+                    "hex": "#651B21",
+                    "name": "3120 Syrah"
+                },
+                {
+                    "hex": "#251C3A",
+                    "name": "3121 Blackberry Cordial"
+                },
+                {
+                    "hex": "#731269",
+                    "name": "3122 Grape Juice"
+                },
+                {
+                    "hex": "#3C4355",
+                    "name": "3123 Nightshadow Blue"
+                },
+                {
+                    "hex": "#808EB9",
+                    "name": "3124 Blue Heron"
+                },
+                {
+                    "hex": "#0C264B",
+                    "name": "4009 Aporto"
+                },
+                {
+                    "hex": "#7D6020",
+                    "name": "4010 Straw"
+                },
+                {
+                    "hex": "#9A153B",
+                    "name": "7098 Merlot"
+                },
+                {
+                    "hex": "#494D4D",
+                    "name": "8400 Charcoal Grey"
+                },
+                {
+                    "hex": "#CDCACB",
+                    "name": "8401 Silver Grey"
+                },
+                {
+                    "hex": "#EE8A05",
+                    "name": "8444 Butternut Squash"
+                },
+                {
+                    "hex": "#770039",
+                    "name": "8448 Crushed Berry"
+                },
+                {
+                    "hex": "#840A20",
+                    "name": "8450 Scarlet"
+                },
+                {
+                    "hex": "#FDC75D",
+                    "name": "8457 Dandy Lion"
+                },
+                {
+                    "hex": "#671726",
+                    "name": "8511 Valentine"
+                },
+                {
+                    "hex": "#264265",
+                    "name": "9332 Sapphire"
+                }
+            ]
+        },
+        {
+            "name": "Cascade Yarns Eco+ Merino - Bulky",
+            "url": "https://www.ravelry.com/yarns/library/cascade-yarns-eco-merino",
+            "colorways": [
+                {
+                    "hex": "#781D55",
+                    "name": "01 Boysenberry"
+                },
+                {
+                    "hex": "#BFBBB7",
+                    "name": "03 Silver"
+                },
+                {
+                    "hex": "#5D5D5D",
+                    "name": "04 Charcoal"
+                },
+                {
+                    "hex": "#1C1C1D",
+                    "name": "05 Black"
+                },
+                {
+                    "hex": "#950020",
+                    "name": "06 Tomato"
+                },
+                {
+                    "hex": "#531023",
+                    "name": "07 Red"
+                },
+                {
+                    "hex": "#55202C",
+                    "name": "08 Pomegranate"
+                },
+                {
+                    "hex": "#43241E",
+                    "name": "09 Bison"
+                },
+                {
+                    "hex": "#704B3C",
+                    "name": "10 Acorn"
+                },
+                {
+                    "hex": "#D4B6B1",
+                    "name": "11 Mushroom"
+                },
+                {
+                    "hex": "#F3DDC2",
+                    "name": "12 Ecru"
+                },
+                {
+                    "hex": "#F2A100",
+                    "name": "14 Sunflower"
+                },
+                {
+                    "hex": "#E24012",
+                    "name": "15 Autumn Sunset"
+                },
+                {
+                    "hex": "#485D49",
+                    "name": "16 Dark Ivy"
+                },
+                {
+                    "hex": "#2A4239",
+                    "name": "17 Pineneedle"
+                },
+                {
+                    "hex": "#17373E",
+                    "name": "18 Spruce"
+                },
+                {
+                    "hex": "#095D5E",
+                    "name": "19 Teal Blue"
+                },
+                {
+                    "hex": "#2F294A",
+                    "name": "21 Navy"
+                },
+                {
+                    "hex": "#97A8D2",
+                    "name": "22 Faded Denim"
+                },
+                {
+                    "hex": "#A89BDA",
+                    "name": "23 Blue Heron"
+                },
+                {
+                    "hex": "#474576",
+                    "name": "24 Coastal Fjord"
+                },
+                {
+                    "hex": "#472A79",
+                    "name": "25 Deep Wisteria"
+                },
+                {
+                    "hex": "#662780",
+                    "name": "26 Crushed Grape"
+                }
+            ]
+        },
+        {
+            "name": "Ella Rae Eco Organic Cotton - DK",
+            "url": "https://www.ravelry.com/yarns/library/ella-rae-eco-organic-cotton",
+            "colorways": [
+                {
+                    "hex": "#BDBCC2",
+                    "name": "02 Pebbles"
+                },
+                {
+                    "hex": "#DCDBD5",
+                    "name": "03 Crystal"
+                },
+                {
+                    "hex": "#F5F8F1",
+                    "name": "04 Magnolia"
+                },
+                {
+                    "hex": "#F0EDD4",
+                    "name": "05 Pearl"
+                },
+                {
+                    "hex": "#F4EBD4",
+                    "name": "06 Hazel"
+                },
+                {
+                    "hex": "#D1EDEA",
+                    "name": "07 Skye"
+                },
+                {
+                    "hex": "#F0EEAE",
+                    "name": "08 Daisy"
+                },
+                {
+                    "hex": "#D0E8F4",
+                    "name": "11 Iris"
+                },
+                {
+                    "hex": "#CECFE0",
+                    "name": "12 Violet"
+                },
+                {
+                    "hex": "#F1DFEE",
+                    "name": "13 Lily"
+                },
+                {
+                    "hex": "#836189",
+                    "name": "20 Amethyst"
+                },
+                {
+                    "hex": "#EF5271",
+                    "name": "21 Azalea"
+                }
+            ]
+        },
+        {
+            "name": "Ella Rae Classic Wool - Worsted",
+            "url": "https://www.ravelry.com/yarns/library/ella-rae-classic-wool-solids-heathers--marls",
+            "colorways": [
+                {
+                    "hex": "#D9CCB8",
+                    "name": "09 Cream"
+                },
+                {
+                    "hex": "#1B864F",
+                    "name": "90 Kelly Green"
+                },
+                {
+                    "hex": "#DB662A",
+                    "name": "107 Orange"
+                },
+                {
+                    "hex": "#433839",
+                    "name": "111 Chocolate"
+                },
+                {
+                    "hex": "#26252A",
+                    "name": "121 Night Rider"
+                },
+                {
+                    "hex": "#0D2B57",
+                    "name": "127 Deep Cove Blue"
+                },
+                {
+                    "hex": "#89BEBE",
+                    "name": "154 Persian Green"
+                }
+            ]
+        },
+        {
+            "name": "Ella Rae Classic Superwash - Worsted",
+            "url": "https://www.ravelry.com/yarns/library/ella-rae-classic-superwash",
+            "colorways": [
+                {
+                    "hex": "#CFD1C9",
+                    "name": "1 Vanilla"
+                },
+                {
+                    "hex": "#ADBFE5",
+                    "name": "6 Lt. Blue"
+                },
+                {
+                    "hex": "#E6D4AA",
+                    "name": "14 Beige"
+                },
+                {
+                    "hex": "#ECE6CA",
+                    "name": "17 Ecru"
+                },
+                {
+                    "hex": "#3A2D2D",
+                    "name": "20 Deep Brown"
+                },
+                {
+                    "hex": "#393037",
+                    "name": "24 Black"
+                },
+                {
+                    "hex": "#48B4D9",
+                    "name": "34 Turquoise"
+                },
+                {
+                    "hex": "#911C0F",
+                    "name": "37 Russet"
+                }
+            ]
         }
     ]
 }
