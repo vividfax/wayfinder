@@ -2215,6 +2215,146 @@
                     "name": "412 Navy Heather"
                 }
             ]
+        },
+        {
+            "name": "Sublime Baby Cashmere Merino Silk DK",
+            "url": "https://www.ravelry.com/yarns/library/sublime-yarns-baby-cashmere-merino-silk-dk",
+            "colorways": [
+                {
+                    "hex": "#F2D8DA",
+                    "name": "001 Piglet"
+                },
+                {
+                    "hex": "#C4C7DC",
+                    "name": "002 Cuddle"
+                },
+                {
+                    "hex": "#EFE9E6",
+                    "name": "003 Vanilla"
+                },
+                {
+                    "hex": "#E4D5C5",
+                    "name": "004 Gooseberry"
+                },
+                {
+                    "hex": "#E7E5E9",
+                    "name": "005 Waterlily"
+                },
+                {
+                    "hex": "#CBBBB7",
+                    "name": "006 Pebble"
+                },
+                {
+                    "hex": "#E8BAC8",
+                    "name": "048 Cheeky"
+                },
+                {
+                    "hex": "#9CBBC1",
+                    "name": "124 Splash"
+                },
+                {
+                    "hex": "#D53085",
+                    "name": "162 Pinkaboo"
+                },
+                {
+                    "hex": "#C92939",
+                    "name": "192 Teddy Red"
+                },
+                {
+                    "hex": "#D6CFD4",
+                    "name": "276 Skipper"
+                },
+                {
+                    "hex": "#928A92",
+                    "name": "277 Tittlemouse"
+                },
+                {
+                    "hex": "#E5DBD5",
+                    "name": "344 Little Linen"
+                },
+                {
+                    "hex": "#EC96AE",
+                    "name": "358 Little Piggy"
+                },
+                {
+                    "hex": "#B0D3BB",
+                    "name": "456 Sweat Leaf"
+                },
+                {
+                    "hex": "#A5ADD3",
+                    "name": "493 Bunty Blue"
+                },
+                {
+                    "hex": "#D4D0A7",
+                    "name": "527 Diddy Dino"
+                },
+                {
+                    "hex": "#BD133F",
+                    "name": "558 Lollie"
+                },
+                {
+                    "hex": "#F0B32E",
+                    "name": "559 Rubber Duckie"
+                },
+                {
+                    "hex": "#66BCC8",
+                    "name": "560 Shelley"
+                }
+            ]
+        },
+        {
+            "name": "Sublime Extra Fine Merino Worsted",
+            "url": "https://www.ravelry.com/yarns/library/sublime-yarns-extra-fine-merino-worsted",
+            "colorways": [
+                {
+                    "hex": "#754963",
+                    "name": "062 Aubergine"
+                },
+                {
+                    "hex": "#802329",
+                    "name": "228 Roasted Pepper"
+                },
+                {
+                    "hex": "#FDC65A",
+                    "name": "349 Sunday"
+                },
+                {
+                    "hex": "#3E5C51",
+                    "name": "476 Cedar"
+                },
+                {
+                    "hex": "#F56316",
+                    "name": "478 Marmalade"
+                },
+                {
+                    "hex": "#B15D84",
+                    "name": "480 Bloom"
+                },
+                {
+                    "hex": "#4A3450",
+                    "name": "481 Black Grape"
+                },
+                {
+                    "hex": "#D4218B",
+                    "name": "495 Flounce"
+                },
+                {
+                    "hex": "#0C967C",
+                    "name": "492 Botanica"
+                },
+                {
+                    "hex": "#C6DC3B",
+                    "name": "506 Chartreuse"
+                },
+                {
+                    "hex": "#05BBD7",
+                    "name": "507 Capri"
+                },
+                {
+                    "hex": "#0A4784",
+                    "name": "554 Marni"
+                }
+            ]
         }
     ]
 }
