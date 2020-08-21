@@ -2445,6 +2445,404 @@
                     "name": "Aragrå"
                 }
             ]
+        },
+        {
+            "name": "Jamieson's of Shetland Double Knitting",
+            "url": "https://www.ravelry.com/yarns/library/jamiesons-of-shetland-double-knitting",
+            "colorways": [
+                {
+                    "hex": "#E1E2CC",
+                    "name": "104 Natural White"
+                },
+                {
+                    "hex": "#E6E7DC",
+                    "name": "304 White"
+                },
+                {
+                    "hex": "#EACCB1",
+                    "name": "440 Peach"
+                },
+                {
+                    "hex": "#EFB184",
+                    "name": "435 Apricot"
+                },
+                {
+                    "hex": "#F07E47",
+                    "name": "308 Tangerine"
+                },
+                {
+                    "hex": "#E63C12",
+                    "name": "470 Pumpkin"
+                },
+                {
+                    "hex": "#D05511",
+                    "name": "478 Amber"
+                },
+                {
+                    "hex": "#BA1415",
+                    "name": "462 Ginger"
+                },
+                {
+                    "hex": "#C81E26",
+                    "name": "524 Poppy"
+                },
+                {
+                    "hex": "#E70026",
+                    "name": "500 Scarlet"
+                },
+                {
+                    "hex": "#A70122",
+                    "name": "525 Crimson"
+                },
+                {
+                    "hex": "#860E18",
+                    "name": "587 Madder"
+                },
+                {
+                    "hex": "#96181A",
+                    "name": "578 Rust"
+                },
+                {
+                    "hex": "#9E3C26",
+                    "name": "870 Cocoa"
+                },
+                {
+                    "hex": "#C26145",
+                    "name": "861 Sandalwood"
+                },
+                {
+                    "hex": "#C8574E",
+                    "name": "576 Cinnamon"
+                },
+                {
+                    "hex": "#DC7972",
+                    "name": "540 Coral"
+                },
+                {
+                    "hex": "#C2353D",
+                    "name": "526 Spice"
+                },
+                {
+                    "hex": "#942029",
+                    "name": "577 Chestnut"
+                },
+                {
+                    "hex": "#612424",
+                    "name": "879 Copper"
+                },
+                {
+                    "hex": "#C3A83F",
+                    "name": "289 Gold"
+                },
+                {
+                    "hex": "#CFB96B",
+                    "name": "375 Flax"
+                },
+                {
+                    "hex": "#CE8A0F",
+                    "name": "425 Mustard"
+                },
+                {
+                    "hex": "#DB8C00",
+                    "name": "410 Cornfield"
+                },
+                {
+                    "hex": "#EEDC11",
+                    "name": "400 Mimosa"
+                },
+                {
+                    "hex": "#D8C135",
+                    "name": "390 Daffodil"
+                },
+                {
+                    "hex": "#E2DB7A",
+                    "name": "350 Lemon"
+                },
+                {
+                    "hex": "#B1B557",
+                    "name": "365 Chartreuse"
+                },
+                {
+                    "hex": "#99A44C",
+                    "name": "1140 Granny Smith"
+                },
+                {
+                    "hex": "#A0943E",
+                    "name": "791 Pistachio"
+                },
+                {
+                    "hex": "#8D8853",
+                    "name": "789 Marjoram"
+                },
+                {
+                    "hex": "#5D4111",
+                    "name": "429 Old Gold"
+                },
+                {
+                    "hex": "#3F4F29",
+                    "name": "815 Ivy"
+                },
+                {
+                    "hex": "#193F2C",
+                    "name": "800 Tartan"
+                },
+                {
+                    "hex": "#1E2E2C",
+                    "name": "820 Bottle"
+                },
+                {
+                    "hex": "#233F1E",
+                    "name": "788 Leaf"
+                },
+                {
+                    "hex": "#A1CB39",
+                    "name": "780 Lime"
+                },
+                {
+                    "hex": "#90BD7F",
+                    "name": "785 Apple"
+                },
+                {
+                    "hex": "#267D34",
+                    "name": "790 Celtic"
+                },
+                {
+                    "hex": "#21A16B",
+                    "name": "792 Emerald"
+                },
+                {
+                    "hex": "#2F9982",
+                    "name": "787 Jade"
+                },
+                {
+                    "hex": "#2C6545",
+                    "name": "805 Spruce"
+                },
+                {
+                    "hex": "#43846B",
+                    "name": "772 Verdigris"
+                },
+                {
+                    "hex": "#66A284",
+                    "name": "770 Mint"
+                },
+                {
+                    "hex": "#9EB28F",
+                    "name": "769 Willow"
+                },
+                {
+                    "hex": "#638A7D",
+                    "name": "794 Eucalyptus"
+                },
+                {
+                    "hex": "#2E4F47",
+                    "name": "821 Rosemary"
+                },
+                {
+                    "hex": "#4E604F",
+                    "name": "766 Sage"
+                },
+                {
+                    "hex": "#191A1A",
+                    "name": "999 Black"
+                },
+                {
+                    "hex": "#646A6D",
+                    "name": "630 Dove"
+                },
+                {
+                    "hex": "#404F57",
+                    "name": "640 Stonehenge"
+                },
+                {
+                    "hex": "#344951",
+                    "name": "677 Stonewash"
+                },
+                {
+                    "hex": "#2E5771",
+                    "name": "258 Peacock"
+                },
+                {
+                    "hex": "#77B5AD",
+                    "name": "929 Aqua"
+                },
+                {
+                    "hex": "#64A5AA",
+                    "name": "760 Caspian"
+                },
+                {
+                    "hex": "#2D8BAB",
+                    "name": "757 Splash"
+                },
+                {
+                    "hex": "#356991",
+                    "name": "676 Sapphire"
+                },
+                {
+                    "hex": "#234880",
+                    "name": "750 Petrol"
+                },
+                {
+                    "hex": "#3D719A",
+                    "name": "680 Lunar"
+                },
+                {
+                    "hex": "#6B88AD",
+                    "name": "660 Lagoon"
+                },
+                {
+                    "hex": "#9DBACF",
+                    "name": "655 China Blue"
+                },
+                {
+                    "hex": "#B1CAC8",
+                    "name": "764 Cloud"
+                },
+                {
+                    "hex": "#C7CABD",
+                    "name": "768 Eggshell"
+                },
+                {
+                    "hex": "#6A81B6",
+                    "name": "136 Teviot"
+                },
+                {
+                    "hex": "#5E78B5",
+                    "name": "665 Bluebell"
+                },
+                {
+                    "hex": "#4F6291",
+                    "name": "685 Delph"
+                },
+                {
+                    "hex": "#2E3293",
+                    "name": "700 Royal"
+                },
+                {
+                    "hex": "#273064",
+                    "name": "684 Cobalt"
+                },
+                {
+                    "hex": "#292F51",
+                    "name": "726 Prussian"
+                },
+                {
+                    "hex": "#252429",
+                    "name": "730 Dark Navy"
+                },
+                {
+                    "hex": "#22223B",
+                    "name": "727 Admiral Navy"
+                },
+                {
+                    "hex": "#252138",
+                    "name": "707 Eclipse"
+                },
+                {
+                    "hex": "#2F2B52",
+                    "name": "710 Gentian"
+                },
+                {
+                    "hex": "#B7AEBA",
+                    "name": "620 Lilac"
+                },
+                {
+                    "hex": "#948B9F",
+                    "name": "615 Hyacinth"
+                },
+                {
+                    "hex": "#645787",
+                    "name": "610 Purple"
+                },
+                {
+                    "hex": "#431F91",
+                    "name": "600 Violet"
+                },
+                {
+                    "hex": "#8D6FA5",
+                    "name": "616 Anemone"
+                },
+                {
+                    "hex": "#A38EA4",
+                    "name": "617 Lavender"
+                },
+                {
+                    "hex": "#CEC0BE",
+                    "name": "547 Orchid"
+                },
+                {
+                    "hex": "#A78D90",
+                    "name": "603 Pot-Pourri"
+                },
+                {
+                    "hex": "#A5737F",
+                    "name": "562 Cyclamen"
+                },
+                {
+                    "hex": "#5A3046",
+                    "name": "596 Clover"
+                },
+                {
+                    "hex": "#2A1C26",
+                    "name": "598 Mulberry"
+                },
+                {
+                    "hex": "#38213F",
+                    "name": "599 Zodiac"
+                },
+                {
+                    "hex": "#341721",
+                    "name": "293 Port Wine"
+                },
+                {
+                    "hex": "#AD7170",
+                    "name": "556 Old Rose"
+                },
+                {
+                    "hex": "#853048",
+                    "name": "563 Rouge"
+                },
+                {
+                    "hex": "#9E4656",
+                    "name": "581 Peony"
+                },
+                {
+                    "hex": "#7D1D2C",
+                    "name": "572 Redcurrant"
+                },
+                {
+                    "hex": "#550C1B",
+                    "name": "595 Maroon"
+                },
+                {
+                    "hex": "#801029",
+                    "name": "580 Cherry"
+                },
+                {
+                    "hex": "#BA0041",
+                    "name": "585 Plum"
+                },
+                {
+                    "hex": "#EB0442",
+                    "name": "530 Fuchsia"
+                },
+                {
+                    "hex": "#B03458",
+                    "name": "575 Lipstick"
+                },
+                {
+                    "hex": "#CB7487",
+                    "name": "570 Sorbet"
+                },
+                {
+                    "hex": "#E5ABA4",
+                    "name": "555 Blossom"
+                },
+                {
+                    "hex": "#DBB3B2",
+                    "name": "550 Rose"
+                }
+            ]
         }
     ]
 }
