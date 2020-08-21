@@ -102,6 +102,14 @@ function colorDistance(first, second) {
 
 function printColorway(i, j) {
 
+	let textColor;
+	let yarnColor = data.yarns[i].colorways[j].hex
+
+	if (colorDistance(yarnColor, "#ffffff") < 200) {
+		textColor = "#666666";
+	} else {
+		textColor = "#fbfbfb";
+	}
 	let colourway = data.yarns[i].colorways[j].name;
 	let yarn = data.yarns[i].name;
 	let toPrint = [yarn, colourway].join(" - ");
@@ -109,10 +117,10 @@ function printColorway(i, j) {
 
 	let optionsHolder = createP();
 	optionsHolder.parent("#optionsContainer");
-	optionsHolder.style("background-color", data.yarns[i].colorways[j].hex);
+	optionsHolder.style("background-color", yarnColor);
 	options = createA(link, toPrint);
 	options.parent(optionsHolder);
-	options.style("color", "#fbfbfb");
+	options.style("color", textColor);
 	options.style("margin", "8px");
 }
 
