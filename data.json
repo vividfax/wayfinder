@@ -2355,6 +2355,104 @@
                     "name": "554 Marni"
                 }
             ]
+        },
+        {
+            "name": "Knitting for Olive Heavy Merino",
+            "url": "https://www.ravelry.com/yarns/library/knitting-for-olive-heavy-merino",
+            "colorways": [
+                {
+                    "hex": "#E7E3CC",
+                    "name": "Off-White"
+                },
+                {
+                    "hex": "#1E1D1B",
+                    "name": "Charcoal"
+                },
+                {
+                    "hex": "#E6DFD6",
+                    "name": "Powder"
+                },
+                {
+                    "hex": "#794A1F",
+                    "name": "Soft Cognac"
+                },
+                {
+                    "hex": "#83511D",
+                    "name": "Ocher Brown"
+                },
+                {
+                    "hex": "#A06F1E",
+                    "name": "Dark Ocher"
+                },
+                {
+                    "hex": "#854230",
+                    "name": "Rust"
+                },
+                {
+                    "hex": "#431D21",
+                    "name": "Bordeaux"
+                },
+                {
+                    "hex": "#E4C5B5",
+                    "name": "Rose Clay"
+                },
+                {
+                    "hex": "#E7DCC8",
+                    "name": "Mushroom Rose"
+                },
+                {
+                    "hex": "#86726C",
+                    "name": "Plum Clay"
+                },
+                {
+                    "hex": "#333741",
+                    "name": "Deep Petroleum Blue"
+                },
+                {
+                    "hex": "#6E7C8D",
+                    "name": "Dusty Petroleum Blue"
+                },
+                {
+                    "hex": "#575735",
+                    "name": "Hunter Green"
+                },
+                {
+                    "hex": "#9B852C",
+                    "name": "Ocher Green"
+                },
+                {
+                    "hex": "#E6E5DC",
+                    "name": "Putty"
+                },
+                {
+                    "hex": "#878076",
+                    "name": "Dusty Moose"
+                },
+                {
+                    "hex": "#7B7E7C",
+                    "name": "Racoon"
+                },
+                {
+                    "hex": "#BCAE92",
+                    "name": "Oatmeal"
+                },
+                {
+                    "hex": "#C3C1B1",
+                    "name": "Pearl Gray"
+                },
+                {
+                    "hex": "#868689",
+                    "name": "Aragrå"
+                },
+                {
+                    "hex": "",
+                    "name": ""
+                },
+                {
+                    "hex": "",
+                    "name": ""
+                }
+            ]
         }
     ]
 }
