@@ -2843,6 +2843,56 @@
                     "name": "550 Rose"
                 }
             ]
+        },
+         {
+            "name": "Knit Picks Palette - Fingering",
+            "url": "https://www.ravelry.com/yarns/library/knit-picks-palette",
+            "colorways": [
+                {
+                    "hex": "#95BB69",
+                    "name": "Alfalfa"
+                },
+                {
+                    "hex": "#C8AC93",
+                    "name": "Almond"
+                },
+                {
+                    "hex": "#95BB69",
+                    "name": "Ash"
+                },
+                {
+                    "hex": "#61579A",
+                    "name": "Aster"
+                },
+                {
+                    "hex": "#49342A",
+                    "name": "Bark"
+                },
+                {
+                    "hex": "#603B27",
+                    "name": "Bison"
+                },
+                {
+                    "hex": "#1E1C1F",
+                    "name": "Black"
+                },
+                {
+                    "hex": "#24538A",
+                    "name": "Blue"
+                },
+                {
+                    "hex": "#ACBCDB",
+                    "name": "Bluebell"
+                },
+                {
+                    "hex": "#E4C7CA",
+                    "name": "Blush"
+                },
+                {
+                    "hex": "#743A2E",
+                    "name": "Brown Sugar"
+                }
+            ]
         }
     ]
 }
