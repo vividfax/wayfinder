@@ -1,6 +1,3276 @@
 {
     "yarns": [
         {
+            "name": "Filcolana - Alva",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#d8cfbe",
+                    "name": "101",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-101&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#888482",
+                    "name": "102",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-102&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#3d607e",
+                    "name": "142",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-142&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#0d1325",
+                    "name": "145",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-145&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#1c2721",
+                    "name": "147",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-147&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#716558",
+                    "name": "207 Desert Sand",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=207-desertsand&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#7d583b",
+                    "name": "208",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-208&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#390c0a",
+                    "name": "225",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-225&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#8d979b",
+                    "name": "281 Rime Frost",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=281-frostrime&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#85692b",
+                    "name": "285",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-285&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#e4c6c0",
+                    "name": "334",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-334&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#18184e",
+                    "name": "337",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-337&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#352c27",
+                    "name": "355",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-355&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#d1cfe8",
+                    "name": "369 Slightly Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=369-purpleslightly&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#8d554d",
+                    "name": "370",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-370&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#9b0f33",
+                    "name": "371",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-371&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#746348",
+                    "name": "401 Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=401-gray&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "402",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-402&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#171b23",
+                    "name": "404 Charcoal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=404-charcoal&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#201512",
+                    "name": "409 Espresso",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=409-espresso&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#c3d5e4",
+                    "name": "827 Dijon",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=827-dijon&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#68605c",
+                    "name": "976",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-976&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#e4dccb",
+                    "name": "977 Marzipan",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=977-marzipan&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                },
+                {
+                    "hex": "#d1d8e2",
+                    "name": "979 Beige",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=979-beige&photo=yes&view=thumbs&yarn-link=filcolana-alva"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Anina",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#e2dfd4",
+                    "name": "101 Natural White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-naturalwhite&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "102 Sort",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-sort&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#151a2b",
+                    "name": "145 Navy Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=145-bluenavy&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#97453b",
+                    "name": "225 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=225-red&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#2c1f27",
+                    "name": "235 Grape Royal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=235-graperoyal&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#90a4b4",
+                    "name": "238 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=238-orange&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#2a7286",
+                    "name": "239 Turquoise",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=239-turquoise&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#282e1c",
+                    "name": "240",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-240&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#1e130e",
+                    "name": "241 Dark Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=241-browndark&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#44524b",
+                    "name": "243 Light Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=243-greenlight&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#45141f",
+                    "name": "245 Bordeaux",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=245-bordeaux&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#70654a",
+                    "name": "332 Warm Olive",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=332-olivewarm&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#97a6ae",
+                    "name": "333 Sea Foam",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=333-foamsea&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#8da3c7",
+                    "name": "334 Light Blush",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=334-blushlight&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#93414f",
+                    "name": "335 Peach Blossom",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=335-blossompeach&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#795f33",
+                    "name": "351 Tapenade",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=351-tapenade&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#72533d",
+                    "name": "356 Woodland Dawn",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=356-dawnwoodland&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#411309",
+                    "name": "357 Sumac",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=357-sumac&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#3d1218",
+                    "name": "515 Chocolat Strawberry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=515-chocolatstrawberry&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#1e2f2b",
+                    "name": "516 Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=516-petrol&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#262a14",
+                    "name": "517 Silkie",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=517-silkie&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#4f6d6a",
+                    "name": "808",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-808&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#59636a",
+                    "name": "819",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-819&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#785a51",
+                    "name": "820",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-820&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#93483e",
+                    "name": "826",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-826&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#58666d",
+                    "name": "954",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-954&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#2d2723",
+                    "name": "955",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-955&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#725a56",
+                    "name": "956 Charcoal Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=956-charcoalmelange&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "957",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-957&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#64584e",
+                    "name": "973 Gr Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=973-brungr&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#505762",
+                    "name": "975 Chokolade",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=975-chokolade&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#ddd5c7",
+                    "name": "977 Marzipan",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=977-marzipan&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Anina",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#8a8988",
+                    "name": "978 Oatmeal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=978-oatmeal&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#182037",
+                    "name": "1055 Blue Violet",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1055-blueviolet&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#102c46",
+                    "name": "1061 Arctic Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1061-arcticblue&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#b290ac",
+                    "name": "1850 Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1850-purple&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#963e66",
+                    "name": "2010 Rasberry Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=2010-pinkrasberry&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#645e5a",
+                    "name": "2169 Blue Fog",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=2169-bluefog&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#626752",
+                    "name": "3795 Lindegr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=3795-lindegrn&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#bc93a0",
+                    "name": "4142 Old Rose",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=4142-oldrose&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#94a3b4",
+                    "name": "4306 Bleu P Le",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=4306-bleulep&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#838282",
+                    "name": "Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=black&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#898885",
+                    "name": "Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=blue&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#1d1411",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#2b1a1f",
+                    "name": "Gammelrosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=gammelrosa&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                },
+                {
+                    "hex": "#4e1628",
+                    "name": "Raspberry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=raspberry&photo=yes&view=thumbs&yarn-link=filcolana-anina"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Arwetta",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#deded5",
+                    "name": "100",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-100&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#c0d7ee",
+                    "name": "101 Natural White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-naturalwhite&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#848484",
+                    "name": "102 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-black&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#77a3cc",
+                    "name": "105 Army Gr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=105-armygrn&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#7f682c",
+                    "name": "135 Straw",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=135-straw&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#816024",
+                    "name": "136 Mustard",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=136-mustard&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#a60d23",
+                    "name": "138 Rouge",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=138-rouge&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#4a1007",
+                    "name": "139",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-139&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#980b31",
+                    "name": "140 Burgundy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=140-burgundy&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#36619f",
+                    "name": "141 Alaskan Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=141-alaskanblue&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#41638f",
+                    "name": "142 Periwinkle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=142-periwinkle&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#506081",
+                    "name": "143",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-143&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#c5daf3",
+                    "name": "144 Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=144-blue&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#0e1530",
+                    "name": "145 Dark Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=145-bluedark&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "146 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=146-green&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#8a93a3",
+                    "name": "147 Army Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=147-armygreen&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#64603f",
+                    "name": "148",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-148&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#411027",
+                    "name": "153 Deep Orchid",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=153-deeporchid&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "186",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-186&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#cf7e9a",
+                    "name": "187 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=187-pink&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#8e4a6c",
+                    "name": "188 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=188-pink&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#696943",
+                    "name": "190",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-190&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#6ab7a0",
+                    "name": "191 Vert D Eau",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=191-deauvert&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#486372",
+                    "name": "192",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-192&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#5aa5ef",
+                    "name": "193",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-193&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#282689",
+                    "name": "194 Violet",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=194-violet&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#22212a",
+                    "name": "195 Blue Nights",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=195-bluenights&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#ebdcb4",
+                    "name": "196 Lysegul No",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=196-lysegulno&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#868685",
+                    "name": "197 Aqua",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=197-aqua&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#a9402b",
+                    "name": "198",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-198&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#848483",
+                    "name": "199 Blue Atoll",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=199-atollblue&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#e5e746",
+                    "name": "200 Yellow",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=200-yellow&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Arwetta",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#34231f",
+                    "name": "201 Deep Mahogany",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=201-deepmahogany&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#16709c",
+                    "name": "202 Teal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=202-teal&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#848281",
+                    "name": "203 Camel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=203-camel&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#6f6c36",
+                    "name": "220",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-220&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#0e6ca4",
+                    "name": "224",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-224&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#b12f3b",
+                    "name": "226 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=226-red&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#95a4aa",
+                    "name": "234 Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=234-gray&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#93aac4",
+                    "name": "235",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-235&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#714961",
+                    "name": "236",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-236&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#67664d",
+                    "name": "243 Basswood Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=243-basswoodgreen&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#390b19",
+                    "name": "245 Bordeaux",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=245-bordeaux&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828281",
+                    "name": "250",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-250&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#b9a61b",
+                    "name": "251 Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=251-gul&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828281",
+                    "name": "252 Chock Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=252-chockorange&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#54677e",
+                    "name": "253 Power Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=253-pinkpower&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#979da6",
+                    "name": "254 Coral",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=254-coral&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#e4df63",
+                    "name": "255 Limelight",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=255-limelight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#88949e",
+                    "name": "265 Azul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=265-azul&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#346682",
+                    "name": "266 Light Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=266-bluelight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#5f596e",
+                    "name": "267 Syrin",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=267-syrin&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#664c89",
+                    "name": "268 Tistelblomst",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=268-tistelblomst&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#3f5a87",
+                    "name": "270 Midnight Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=270-bluemidnight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#a39483",
+                    "name": "277 Coral",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=277-coral&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#785c54",
+                    "name": "278 Delicate Orchid",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=278-delicateorchid&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#417933",
+                    "name": "279",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-279&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#961329",
+                    "name": "317",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-317&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#e1dad6",
+                    "name": "318 Ballerina",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=318-ballerina&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#b4a1aa",
+                    "name": "334 Light Blush",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=334-blushlight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "340 Ice Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=340-blueice&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#79452f",
+                    "name": "352 Red Squirrel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=352-redsquirrel&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#766b69",
+                    "name": "354 Light Truffle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=354-lighttruffle&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#954149",
+                    "name": "361 Madeira Rose",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=361-madeirarose&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Arwetta",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#815b39",
+                    "name": "363 Caramel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=363-caramel&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#c04a10",
+                    "name": "365",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-365&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#8b1532",
+                    "name": "371",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-371&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#1f2830",
+                    "name": "509",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-509&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#09263b",
+                    "name": "510",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-510&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#7e513f",
+                    "name": "511",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-511&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#3d0812",
+                    "name": "512",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-512&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#2b1b21",
+                    "name": "513 Wine",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=513-wine&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#2f132f",
+                    "name": "518",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-518&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#838383",
+                    "name": "519 Blue Multi",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=519-bluemulti&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#505e69",
+                    "name": "679",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-679&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#1e2632",
+                    "name": "726 Jeansblue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=726-jeansblue&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#7b485b",
+                    "name": "807",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-807&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#88a8ad",
+                    "name": "808 Aqua Mist Mix",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=808-aquamistmix&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#716751",
+                    "name": "809",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-809&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#9d3d37",
+                    "name": "810 Chrysanthemum Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=810-chrysanthemummelange&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#17312b",
+                    "name": "811 Turkis",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=811-turkis&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#63605a",
+                    "name": "812 Granite Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=812-granitemelange&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#943d49",
+                    "name": "813",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-813&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#372010",
+                    "name": "827 Dijon Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=827-dijonmelange&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#838382",
+                    "name": "954",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-954&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#616462",
+                    "name": "955",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-955&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "956 Anthrazit",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=956-anthrazit&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#6fa7ce",
+                    "name": "957 Very Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=957-greylightvery&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#76695b",
+                    "name": "971",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-971&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#31241d",
+                    "name": "973",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-973&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#858585",
+                    "name": "975 Dark Choclate Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=975-choclatedarkmelange&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#735e46",
+                    "name": "977 Marzipan",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=977-marzipan&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#69625e",
+                    "name": "978",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-978&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#a4a8b1",
+                    "name": "990",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-990&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#868584",
+                    "name": "Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=black&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#705442",
+                    "name": "Blue Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=bluegreen&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Arwetta",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#6b655b",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#7b5b34",
+                    "name": "Curry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=curry&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#1a2027",
+                    "name": "Dark Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=darkgrey&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#470c1f",
+                    "name": "Dark Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=darkpurple&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#47101f",
+                    "name": "Dark Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=darkred&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#c4caa3",
+                    "name": "Gammel Rosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=gammelrosa&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#ede7e0",
+                    "name": "Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=grey&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#132934",
+                    "name": "Handdyed",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=handdyed&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#7c604b",
+                    "name": "Light Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=greenlight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#848383",
+                    "name": "Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=greylight&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "Off White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=offwhite&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#e9dfd2",
+                    "name": "Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=petrol&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                },
+                {
+                    "hex": "#999faa",
+                    "name": "White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=white&photo=yes&view=thumbs&yarn-link=filcolana-arwetta"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Cinnia",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#7a756d",
+                    "name": "101 Natural",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-natural&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#191a23",
+                    "name": "102 Sort",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-sort&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#ece2cf",
+                    "name": "146 Deep Sea",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=146-deepsea&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#491306",
+                    "name": "215",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-215&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#6b7237",
+                    "name": "220 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=220-green&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#e54741",
+                    "name": "225 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=225-red&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#705168",
+                    "name": "227 Gammelrosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=227-gammelrosa&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#1d141d",
+                    "name": "238",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-238&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#232706",
+                    "name": "240 Mossgr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=240-mossgrn&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#111b2c",
+                    "name": "270 Dark Indygo",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=270-darkindygo&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#277479",
+                    "name": "280 Turkos",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=280-turkos&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#e7d9c8",
+                    "name": "281 Rimfrost",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=281-rimfrost&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#a65713",
+                    "name": "284 Kumquat",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=284-kumquat&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#6f5256",
+                    "name": "286",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-286&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#856826",
+                    "name": "287 Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=287-gul&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#062817",
+                    "name": "288 Nabawii",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=288-nabawii&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#2d6983",
+                    "name": "289 Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=289-petrol&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#3c131b",
+                    "name": "290 Bordeaux",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=290-bordeaux&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#dc4b52",
+                    "name": "291 Azalea",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=291-azalea&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#9492ba",
+                    "name": "310 Lys Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=310-lillalys&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#3c4d9f",
+                    "name": "312 Deep Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=312-bluedeep&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#616058",
+                    "name": "401 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=401-grey&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#655c56",
+                    "name": "402 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=402-grey&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                },
+                {
+                    "hex": "#6a5948",
+                    "name": "976 R Dyr",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=976-dyrr&photo=yes&view=thumbs&yarn-link=filcolana-cinnia"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Gotlandsk Pelsuld",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#828282",
+                    "name": "102 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-black&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#79523d",
+                    "name": "161 Olivengul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=161-olivengul&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#866726",
+                    "name": "162",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-162&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#401f0d",
+                    "name": "164 Laks",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=164-laks&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#16230e",
+                    "name": "168 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=168-green&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#7d6638",
+                    "name": "169",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-169&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#142428",
+                    "name": "171 Gr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=171-grn&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#496072",
+                    "name": "172 Cikorie",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=172-cikorie&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#1d2229",
+                    "name": "173",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-173&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#152f41",
+                    "name": "174 Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=174-petrol&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#3f110b",
+                    "name": "175 Rust",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=175-rust&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#091636",
+                    "name": "176 Navy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=176-navy&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#0e0e19",
+                    "name": "177 M Rkebl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=177-mrkebl&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#500407",
+                    "name": "178 R D",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=178-dr&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#411a15",
+                    "name": "179 Rustrod",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=179-rustrod&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#360f15",
+                    "name": "182 Burgundy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=182-burgundy&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#2d222b",
+                    "name": "183 Lavender",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=183-lavender&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#0e132a",
+                    "name": "184 Dark Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=184-darkpurple&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#845142",
+                    "name": "185 R D Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=185-dlillar&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#6d5548",
+                    "name": "214 Coppery Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=214-browncoppery&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#451316",
+                    "name": "215 Bordeaux",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=215-bordeaux&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#7c6c53",
+                    "name": "293 Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=293-gul&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#2a2320",
+                    "name": "294 Middle Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=294-brownmiddle&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#775b47",
+                    "name": "295 Lys Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=295-brunlys&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#1b282c",
+                    "name": "296 S Gr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=296-grns&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#1c3416",
+                    "name": "298 Gressgr Nn",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=298-gressgrnn&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#645f53",
+                    "name": "299",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-299&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#9a9e37",
+                    "name": "304",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-304&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#565c60",
+                    "name": "305 Deep Turquoise",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=305-deepturquoise&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#cd3815",
+                    "name": "306 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=306-orange&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#4f160d",
+                    "name": "307",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-307&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                },
+                {
+                    "hex": "#401121",
+                    "name": "308 Cerise",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=308-cerise&photo=yes&view=thumbs&yarn-link=filcolana-gotlandsk-pelsuld"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Indiecita Hand Dyed",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#5e6569",
+                    "name": "401",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-401&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#361b27",
+                    "name": "505 Reds",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=505-reds&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#3b161f",
+                    "name": "505 Reds",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=505-reds&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#7a5b4f",
+                    "name": "506 Bonfire",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=506-bonfire&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#1f230f",
+                    "name": "507 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=507-green&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#535e6e",
+                    "name": "508 Ice Castle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=508-castleice&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                },
+                {
+                    "hex": "#66604e",
+                    "name": "508 Ice Castle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=508-castleice&photo=yes&view=thumbs&yarn-link=filcolana-indiecita-hand-dyed"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Kalaallit Savaasa Meqqui / Genuine Greenland Wool",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#726d66",
+                    "name": "101 Offwhite",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-offwhite&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#43151e",
+                    "name": "130",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-130&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#6a604e",
+                    "name": "970 Natural Cream",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=970-creamnatural&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#e6e0d4",
+                    "name": "971 Light Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=971-graylight&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#69635d",
+                    "name": "972",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-972&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#452f15",
+                    "name": "973 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=973-grey&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#91abb9",
+                    "name": "974",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-974&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                },
+                {
+                    "hex": "#30261f",
+                    "name": "975 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=975-brun&photo=yes&view=thumbs&yarn-link=filcolana-kalaallit-savaasa-meqqui---genuine-greenland-wool"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Merci",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#6e5e4c",
+                    "name": "101 Natural White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-naturalwhite&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#1d202a",
+                    "name": "601 Flint",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=601-flint&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#576a71",
+                    "name": "602 Fern",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=602-fern&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#7c9ad1",
+                    "name": "603 Maomao",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=603-maomao&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#1d1d2c",
+                    "name": "604 Kattegat",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=604-kattegat&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#131533",
+                    "name": "605 Iris",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=605-iris&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#1d1a2f",
+                    "name": "606 Grape",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=606-grape&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#7a4d6d",
+                    "name": "607 Sweet Plum",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=607-plumsweet&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#814b70",
+                    "name": "608 Mulberry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=608-mulberry&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#8a4449",
+                    "name": "609 Rosehip",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=609-rosehip&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#7f5847",
+                    "name": "610 Gingerbread",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=610-gingerbread&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#746341",
+                    "name": "611 Honeydew",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=611-honeydew&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#625a56",
+                    "name": "612 Marshland",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=612-marshland&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#c3586a",
+                    "name": "613 Cosmopolitan",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=613-cosmopolitan&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#e9757b",
+                    "name": "614 Strawberry Daquiri",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=614-daquiristrawberry&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#94503c",
+                    "name": "615 Filur",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=615-filur&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#89562e",
+                    "name": "616 Mai Tai",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=616-maitai&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#73adc4",
+                    "name": "617 Margarita",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=617-margarita&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#87af88",
+                    "name": "618",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-618&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#436d6a",
+                    "name": "619 Grasshopper",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=619-grasshopper&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#93a0a9",
+                    "name": "620 Tom Collins",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=620-collinstom&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#95a0ad",
+                    "name": "958",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-958&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#8e93b9",
+                    "name": "1055",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-1055&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#4c6070",
+                    "name": "1061 Bluestone",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1061-bluestone&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#6b625b",
+                    "name": "1090 White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1090-white&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#715f4a",
+                    "name": "1110 Duckling",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1110-duckling&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#756659",
+                    "name": "1130 Light Peach",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1130-lightpeach&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#838383",
+                    "name": "1390",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-1390&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#854f5d",
+                    "name": "1636 Peach",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1636-peach&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#695c66",
+                    "name": "1770 Lavender",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1770-lavender&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#80506a",
+                    "name": "2010",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-2010&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#7b615d",
+                    "name": "3249 Beige",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=3249-beige&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Merci",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#b693a5",
+                    "name": "4142 Rosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=4142-rosa&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#85a2b2",
+                    "name": "9245 Lys Bl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=9245-bllys&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#cbdeeb",
+                    "name": "Blueberry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=blueberry&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#181e29",
+                    "name": "Bluestone",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=bluestone&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#7c5743",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#476485",
+                    "name": "Lavendel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=lavendel&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#8d8c88",
+                    "name": "Off White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=offwhite&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                },
+                {
+                    "hex": "#e4dac9",
+                    "name": "Papaya",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=papaya&photo=yes&view=thumbs&yarn-link=filcolana-merci"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Naturgarn",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#e1cbac",
+                    "name": "101 R Hvid",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-hvidr&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#12131e",
+                    "name": "102 Sort",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-sort&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#a00f1f",
+                    "name": "120 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=120-red&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#141823",
+                    "name": "212 Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=212-blue&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#b59a23",
+                    "name": "246 Olivengul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=246-olivengul&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#202435",
+                    "name": "248",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-248&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#e74d37",
+                    "name": "274 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=274-orange&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#45694b",
+                    "name": "276 Gr\u00f8nn",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=276-grnn&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#336796",
+                    "name": "292 Mellembl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=292-mellembl&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#8f4a57",
+                    "name": "314",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-314&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#e3d9ce",
+                    "name": "990",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-990&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#5a5c63",
+                    "name": "991 Mellem Gr\u00e5",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=991-grmellem&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "992 Koks",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=992-koks&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#745c48",
+                    "name": "993 Camel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=993-camel&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#3d281b",
+                    "name": "994 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=994-brun&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                },
+                {
+                    "hex": "#1a130d",
+                    "name": "995 M Rke Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=995-brunmrke&photo=yes&view=thumbs&yarn-link=filcolana-naturgarn"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - New Zealand Lammeuld",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#dadacb",
+                    "name": "101 White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-white&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#878684",
+                    "name": "102 Sort",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-sort&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#605d56",
+                    "name": "103 Sandgr",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=103-sandgr&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#2a291d",
+                    "name": "105 Dusty Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=105-dustygreen&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#1e1411",
+                    "name": "110 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=110-brun&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#bb381c",
+                    "name": "111 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=111-orange&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#795752",
+                    "name": "112 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=112-brun&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#8e96be",
+                    "name": "114 Lys Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=114-lillalys&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#16191f",
+                    "name": "115 Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=115-blue&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#4b577f",
+                    "name": "116 Forget Me Not",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=116-forgetmenot&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#b3919e",
+                    "name": "117",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-117&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#4e0b18",
+                    "name": "118",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-118&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#530906",
+                    "name": "120 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=120-red&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#321f22",
+                    "name": "121 Bordeaux",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=121-bordeaux&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "122 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=122-grey&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "123 Light Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=123-greenlight&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#132317",
+                    "name": "124 Receda",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=124-receda&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#2f7d7b",
+                    "name": "126",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-126&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "127 Bamboo",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=127-bamboo&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#232e32",
+                    "name": "129",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-129&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#301b31",
+                    "name": "130 Plum",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=130-plum&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#560712",
+                    "name": "131 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=131-pink&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#4a677c",
+                    "name": "132 Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=132-blue&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#564c86",
+                    "name": "133 Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=133-purple&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#092946",
+                    "name": "207 Teal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=207-teal&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#2d2119",
+                    "name": "208 M Rkegr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=208-mnrkegr&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#510a0f",
+                    "name": "209 Olive",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=209-olive&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#9e973d",
+                    "name": "210 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=210-green&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#8b6530",
+                    "name": "211 Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=211-gul&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#11131d",
+                    "name": "212 Marine",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=212-marine&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#481217",
+                    "name": "213 Dark Fuchsia",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=213-darkfuchsia&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#4b595d",
+                    "name": "228 Smoke Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=228-bluesmoke&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - New Zealand Lammeuld",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#082c41",
+                    "name": "231 Turkis",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=231-turkis&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#311a24",
+                    "name": "247 Flieder Dunkel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=247-dunkelflieder&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#3456a0",
+                    "name": "249 Kobaltbl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=249-kobaltbl&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#86a9a1",
+                    "name": "257 Mint",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=257-mint&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#291d15",
+                    "name": "262 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=262-brun&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#aa3929",
+                    "name": "277 Cayenne",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=277-cayenne&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#e4d9c1",
+                    "name": "301 Isbl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=301-isbl&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#7d5f4e",
+                    "name": "302 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=302-pink&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#55645e",
+                    "name": "303 Aqua",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=303-aqua&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#8b671c",
+                    "name": "311",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-311&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#460907",
+                    "name": "320 Ruby",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=320-ruby&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#e1ded2",
+                    "name": "950",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-950&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#75726c",
+                    "name": "951",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-951&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#555b64",
+                    "name": "952",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-952&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#838382",
+                    "name": "953 Koks",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=953-koks&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#1d1814",
+                    "name": "Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=black&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#382c20",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#895d24",
+                    "name": "Curry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=curry&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#828281",
+                    "name": "Dark Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=darkgrey&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#c29098",
+                    "name": "Gammel Rosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=gammelrosa&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#ded6c2",
+                    "name": "Gr",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=gr&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#686059",
+                    "name": "Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=gray&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#0e2d28",
+                    "name": "Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=green&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#6b5f55",
+                    "name": "Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=grey&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#d7d4c9",
+                    "name": "Hvid",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=hvid&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#6b6157",
+                    "name": "Hvit",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=hvit&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#386183",
+                    "name": "Light Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=bluelight&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#838383",
+                    "name": "Light Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=graylight&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#8795a9",
+                    "name": "Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=greylight&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                },
+                {
+                    "hex": "#49528c",
+                    "name": "Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=lilla&photo=yes&view=thumbs&yarn-link=filcolana-new-zealand-lammeuld"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Pernilla",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#dcd6ca",
+                    "name": "101 Natural White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-naturalwhite&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "102 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-black&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#7a7265",
+                    "name": "145 Navy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=145-navy&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#980321",
+                    "name": "218",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-218&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#756a60",
+                    "name": "317 Cerise",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=317-cerise&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#999cc0",
+                    "name": "334 Light Blush",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=334-blushlight&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#1b2c25",
+                    "name": "346 Thuja",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=346-thuja&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#3a1315",
+                    "name": "357 Sumac",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=357-sumac&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#78533b",
+                    "name": "804 Merlot",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=804-merlot&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#451b2d",
+                    "name": "807",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-807&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#3a6c7c",
+                    "name": "808 Light Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=808-greenlight&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#9e4339",
+                    "name": "810 Chrysantemum",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=810-chrysantemum&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#3f5f80",
+                    "name": "812 Granit Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=812-granitmelange&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#112c44",
+                    "name": "814 Storm Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=814-bluestorm&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "815 Lavender Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=815-greylavender&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#401f12",
+                    "name": "817 Cinnamon",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=817-cinnamon&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#181e2e",
+                    "name": "818 Fisherman Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=818-bluefisherman&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#57666c",
+                    "name": "819 Raindrop",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=819-raindrop&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#715751",
+                    "name": "820 Isabella Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=820-isabellamelange&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#d78186",
+                    "name": "821 Macaron",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=821-macaron&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#2c2819",
+                    "name": "822 Willow",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=822-willow&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#272015",
+                    "name": "823 Juniper",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=823-juniper&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#397257",
+                    "name": "824 Parrot Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=824-greenparrot&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#aa8b40",
+                    "name": "825 Mustard",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=825-mustard&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#91817e",
+                    "name": "826 Cantaloupe",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=826-cantaloupe&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#805a35",
+                    "name": "827 Dijon",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=827-dijon&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#122649",
+                    "name": "828",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-828&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#7e5169",
+                    "name": "829",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-829&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#bf8e92",
+                    "name": "830 Ranunculus",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=830-ranunculus&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#b83a1d",
+                    "name": "831 Tangelo",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=831-tangelo&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#858585",
+                    "name": "954 Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=954-greylight&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "955 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=955-grey&photo=yes&view=thumbs&yarn-link=filcolana-pernilla"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Peruvian",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#8a5747",
+                    "name": "100 Snow White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=100-snowwhite&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#796e5b",
+                    "name": "101 Natur",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-natur&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#191612",
+                    "name": "102 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-black&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8c5932",
+                    "name": "136 Sennep",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=136-sennep&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8fa2ac",
+                    "name": "141 Ice Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=141-blueice&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#191d33",
+                    "name": "145 Navy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=145-navy&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#858584",
+                    "name": "147 J Gergr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=147-gergrjn&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#7d5456",
+                    "name": "187 Rosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=187-rosa&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#440836",
+                    "name": "188 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=188-pink&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8aaf88",
+                    "name": "190 Pistachio",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=190-pistachio&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#799ad8",
+                    "name": "194 Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=194-lilla&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#346a7b",
+                    "name": "202 Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=202-petrol&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#66574f",
+                    "name": "203 Camel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=203-camel&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#894f3f",
+                    "name": "215 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=215-orange&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#4b364e",
+                    "name": "217 Purple",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=217-purple&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#44060c",
+                    "name": "218 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=218-red&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "219 Antrazit",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=219-antrazit&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#7a6833",
+                    "name": "220 For Rsgr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=220-fornrsgr&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#645e41",
+                    "name": "221 Thyme",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=221-thyme&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#2d182d",
+                    "name": "222 Plum",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=222-plum&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8c5a22",
+                    "name": "223 Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=223-gul&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#032f41",
+                    "name": "224 Hawaiian Sea",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=224-hawaiiansea&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#83121a",
+                    "name": "225 Dark Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=225-darkred&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8c454e",
+                    "name": "226 Hindb Rr D",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=226-dhindbrr&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#71526a",
+                    "name": "227 Gammelrose",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=227-gammelrose&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#162636",
+                    "name": "228 Smoke Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=228-bluesmoke&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#251711",
+                    "name": "241 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=241-brun&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#191e28",
+                    "name": "249 Koboltbl",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=249-koboltbl&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#92513c",
+                    "name": "254 Coral",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=254-coral&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#dad67e",
+                    "name": "255 Limelight",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=255-limelight&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#a54035",
+                    "name": "256 Tile",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=256-tile&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#696663",
+                    "name": "257 Mint",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=257-mint&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Peruvian",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#605d6b",
+                    "name": "258 Lilac",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=258-lilac&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#615e74",
+                    "name": "259 Lavender",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=259-lavender&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8ca12e",
+                    "name": "269",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-269&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#1e283d",
+                    "name": "270 Midnight Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=270-bluemidnight&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#990759",
+                    "name": "271 Fuchsia",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=271-fuchsia&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#814781",
+                    "name": "272 Orkide",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=272-orkide&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#172e16",
+                    "name": "279",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-279&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#392218",
+                    "name": "280 Curacao",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=280-curacao&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#28221b",
+                    "name": "281 Light Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=281-bluelight&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#6d5d50",
+                    "name": "282 Bark",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=282-bark&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#92513c",
+                    "name": "283 Calypso",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=283-calypso&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#a65c24",
+                    "name": "284 Kumquat Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=284-kumquatorange&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#86428a",
+                    "name": "313 Bubblegum",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=313-bubblegum&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#92513c",
+                    "name": "318 Ballerina",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=318-ballerina&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8e999d",
+                    "name": "333 Seafoam",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=333-seafoam&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#7e594c",
+                    "name": "334 Light Blush",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=334-blushlight&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#9a4149",
+                    "name": "345 Rosewood",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=345-rosewood&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#914e2e",
+                    "name": "352 Red Squirrel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=352-redsquirrel&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#675c56",
+                    "name": "364 Chai",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=364-chai&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#172125",
+                    "name": "801 S Gr N Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=801-grmelangens&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#30251c",
+                    "name": "802 Moss",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=802-moss&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#eae2d4",
+                    "name": "803 Rust",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=803-rust&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#421c24",
+                    "name": "804",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-804&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#341924",
+                    "name": "805 Erica Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=805-ericamelange&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#695264",
+                    "name": "806 Aubergine",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=806-aubergine&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#0e2d3a",
+                    "name": "811 Turkis",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=811-turkis&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#e5e1d9",
+                    "name": "812",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-812&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#f0739a",
+                    "name": "813 Jordb Rpink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=813-jordbrpink&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#3d7379",
+                    "name": "814 Stormbl Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=814-melangestormbl&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#756057",
+                    "name": "815 Lavender Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=815-greylavender&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#745b4a",
+                    "name": "817 Cinnamon",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=817-cinnamon&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#202933",
+                    "name": "818 Fisherman Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=818-bluefisherman&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Peruvian",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#8f6129",
+                    "name": "827 Dijon",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=827-dijon&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#45140f",
+                    "name": "832 Burnt Sienna",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=832-burntsienna&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#868685",
+                    "name": "954 Lysegr",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=954-lysegr&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "955",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-955&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#e5e1d8",
+                    "name": "956",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-956&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8b8c89",
+                    "name": "957 Very Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=957-greylightvery&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#6c5e55",
+                    "name": "973 Nougat",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=973-nougat&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#2a231e",
+                    "name": "975 Dark Chocolate",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=975-chocolatedark&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#8c8987",
+                    "name": "977 Marzipan Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=977-marzipanmelange&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#949da3",
+                    "name": "978 Oatmeal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=978-oatmeal&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=black&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#4b5a7e",
+                    "name": "Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=blue&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#71604e",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#79726a",
+                    "name": "Cream",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=cream&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=green&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#838383",
+                    "name": "Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=grey&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#3c1b0e",
+                    "name": "Mustard",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=mustard&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#6f685b",
+                    "name": "Offwhite",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=offwhite&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                },
+                {
+                    "hex": "#959aa6",
+                    "name": "White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=white&photo=yes&view=thumbs&yarn-link=filcolana-peruvian"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Saga",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#858585",
+                    "name": "101",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-101&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#131316",
+                    "name": "102 Zwart",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-zwart&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#b73f1e",
+                    "name": "111 Paprika",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=111-paprika&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#13161e",
+                    "name": "115 Kaptain Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=115-bluekaptain&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#765361",
+                    "name": "117",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-117&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#bb2b34",
+                    "name": "120 Carmine",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=120-carmine&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#54101c",
+                    "name": "121",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-121&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#252f27",
+                    "name": "124 Reseda",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=124-reseda&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#8a8a86",
+                    "name": "129 Dark Varidian",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=129-darkvaridian&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#e33ead",
+                    "name": "131",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-131&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#14293c",
+                    "name": "207",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-207&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#5c583e",
+                    "name": "209 Nori",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=209-nori&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#1c2031",
+                    "name": "212 Navy Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=212-bluenavy&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#983a6b",
+                    "name": "213",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-213&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#1d1619",
+                    "name": "262",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-262&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#48160d",
+                    "name": "264",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-264&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#af8ea8",
+                    "name": "302",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-302&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#95581e",
+                    "name": "311 Turmeric",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=311-turmeric&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#a53e35",
+                    "name": "335",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-335&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#994d21",
+                    "name": "366 Sugar Almond",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=366-almondsugar&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#9aa3ab",
+                    "name": "950 Very Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=950-greylightvery&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#939cac",
+                    "name": "951 Light Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=951-greylight&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#eae5d8",
+                    "name": "952",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-952&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "953 Charcoal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=953-charcoal&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#695f5b",
+                    "name": "973",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-973&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#e2dbc9",
+                    "name": "977 Marzipan",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=977-marzipan&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                },
+                {
+                    "hex": "#73655b",
+                    "name": "978 Oatmeal",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=978-oatmeal&photo=yes&view=thumbs&yarn-link=filcolana-saga"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Tilia",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#6f6455",
+                    "name": "100 Snow White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=100-snowwhite&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "101 R Hvid",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=101-hvidr&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#1d1614",
+                    "name": "102 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=102-black&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#282313",
+                    "name": "105 Slate Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=105-greenslate&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#d4dae3",
+                    "name": "124 Receda",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=124-receda&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#795427",
+                    "name": "136 Mustard",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=136-mustard&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#e4dfd3",
+                    "name": "145 Navy Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=145-bluenavy&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#a1954f",
+                    "name": "196 French Vanilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=196-frenchvanilla&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#6d5c4b",
+                    "name": "203 Camel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=203-camel&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#aa986b",
+                    "name": "211 Banana",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=211-banana&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#46141d",
+                    "name": "213 Fuchsia",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=213-fuchsia&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#a80a25",
+                    "name": "218",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-218&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#99904b",
+                    "name": "255 Limelight",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=255-limelight&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#e8e2d7",
+                    "name": "270 Midnight",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=270-midnight&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#78bd72",
+                    "name": "279 Juicy Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=279-greenjuicy&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#98aca5",
+                    "name": "281 Rime Frost",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=281-frostrime&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#7f5041",
+                    "name": "286 Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=286-lilla&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#1171aa",
+                    "name": "289 Blue Coral",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=289-bluecoral&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#62636c",
+                    "name": "319 Blue Violet",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=319-blueviolet&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#b4a1aa",
+                    "name": "321 Sakura",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=321-sakura&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#978f86",
+                    "name": "322 Begonia Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=322-begoniapink&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#851827",
+                    "name": "323 Cranberry",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=323-cranberry&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#dbd6cb",
+                    "name": "324",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-324&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#6e5348",
+                    "name": "325 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=325-brun&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#4f4e18",
+                    "name": "326 Meadow",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=326-meadow&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#4e6058",
+                    "name": "327 Sage",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=327-sage&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#3e5d7f",
+                    "name": "328 Bluebell",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=328-bluebell&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#766c57",
+                    "name": "329 Playa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=329-playa&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#9ea5ab",
+                    "name": "330 Ash",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=330-ash&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#d5d9e7",
+                    "name": "331 Steel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=331-steel&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#9a4048",
+                    "name": "335 Peach Blossom",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=335-blossompeach&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#d5dfe7",
+                    "name": "336 Latte",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=336-latte&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Tilia",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#0d2b97",
+                    "name": "337 Bright Cobalt Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=337-bluebrightcobalt&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#716761",
+                    "name": "338 Frost Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=338-frostgrey&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#879ac1",
+                    "name": "340 Ice Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=340-blueice&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#92513c",
+                    "name": "341 Winter Peach",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=341-peachwinter&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#545f66",
+                    "name": "342 Arctic Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=342-arcticblue&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#122f2d",
+                    "name": "347 Deep Pine",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=347-deeppine&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#4b656e",
+                    "name": "348 Rainy Day",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=348-dayrainy&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#5d5a6b",
+                    "name": "349 Mauve",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=349-mauve&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#81a4b7",
+                    "name": "350 Sienna",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=350-sienna&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#471b09",
+                    "name": "352 Red Squirrel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=352-redsquirrel&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#5d5560",
+                    "name": "353 Fresia",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=353-fresia&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#67574f",
+                    "name": "354 Light Truffle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=354-lighttruffle&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#6e6758",
+                    "name": "355 Green Tea",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=355-greentea&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#9b9ca5",
+                    "name": "358 Silver",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=358-silver&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#96153a",
+                    "name": "360",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-360&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#48160f",
+                    "name": "361 Madeira Rose",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=361-madeirarose&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#9a443b",
+                    "name": "362 Autumn Leaves",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=362-autumnleaves&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#8c5532",
+                    "name": "363 Caramel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=363-caramel&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                },
+                {
+                    "hex": "#7d5a4c",
+                    "name": "373 Vintage Rose",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=373-rosevintage&photo=yes&view=thumbs&yarn-link=filcolana-tilia"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Vilja (former Indiecita)",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#e2d6b8",
+                    "name": "100 Wei",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=100-wei&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#43578b",
+                    "name": "145",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-145&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#1f292f",
+                    "name": "146 S Gr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=146-grns&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#55716d",
+                    "name": "197 Mint",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=197-mint&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#736457",
+                    "name": "207 Light Camel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=207-camellight&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#442e1d",
+                    "name": "208",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-208&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#586273",
+                    "name": "221 Thyme",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=221-thyme&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#0e75a8",
+                    "name": "224 Hawaiian Sea",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=224-hawaiiansea&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#5a050b",
+                    "name": "225 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=225-red&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#d8d6c7",
+                    "name": "226 Rasberry Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=226-pinkrasberry&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#7b605b",
+                    "name": "227 Rosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=227-rosa&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#6c5f53",
+                    "name": "228",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-228&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#1f1f36",
+                    "name": "229 Indigo",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=229-indigo&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#746257",
+                    "name": "230 Lavendel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=230-lavendel&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#356a86",
+                    "name": "231 Delphinium Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=231-bluedelphinium&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#4b515e",
+                    "name": "233 Sofr Yellow",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=233-sofryellow&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#d1cc9c",
+                    "name": "234 Lime",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=234-lime&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#94a2b0",
+                    "name": "235 Bleu P Le",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=235-bleulep&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#c691a1",
+                    "name": "236 Lyser D",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=236-dlyser&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#151723",
+                    "name": "237 Orange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=237-orange&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#21192e",
+                    "name": "238 Lilla",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=238-lilla&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#746255",
+                    "name": "244 Forest Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=244-forestgreen&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#3b0d16",
+                    "name": "245 Vinr D",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=245-dvinr&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#787234",
+                    "name": "255",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-255&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#a83568",
+                    "name": "261 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=261-pink&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#d9a00a",
+                    "name": "285 Karry Gul",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=285-gulkarry&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#7f95c9",
+                    "name": "286 Pur Pur",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=286-purpur&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#381f17",
+                    "name": "302 Brun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=302-brun&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#665b50",
+                    "name": "319 Lavendel",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=319-lavendel&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#6e5f55",
+                    "name": "334 Light Blush",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=334-blushlight&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#0e1c3e",
+                    "name": "337 Bright Cobalt",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=337-brightcobalt&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#7e655f",
+                    "name": "352",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-352&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                }
+            ]
+        },
+        {
+            "name": "Filcolana - Vilja (former Indiecita)",
+            "url": "https://www.ravelry.com/yarns/brands/filcolana",
+            "colorways": [
+                {
+                    "hex": "#a3a8af",
+                    "name": "401",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-401&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "402 Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=402-grey&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#e9e1d7",
+                    "name": "404 Dark Gray",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=404-darkgray&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#828282",
+                    "name": "409 M Rkebrun",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=409-mrkebrun&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#828281",
+                    "name": "500 Black",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=500-black&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#8fa99c",
+                    "name": "507 Green",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=507-green&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#4d666d",
+                    "name": "508 Ice Castle",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=508-castleice&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#351119",
+                    "name": "807 Burgundy",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=807-burgundy&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#97a8ae",
+                    "name": "808 Bl Gr N",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=808-blgrn&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#4f6f62",
+                    "name": "809 Avocat",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=809-avocat&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#556371",
+                    "name": "810 Chrysanthemum Melange",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=810-chrysanthemummelange&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#367284",
+                    "name": "811 Gr Nnturkis",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=811-grnnturkis&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#a43b55",
+                    "name": "813 Lakserosa",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=813-lakserosa&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#232436",
+                    "name": "814 Blue Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=814-bluegrey&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#536c88",
+                    "name": "819 Raindrop",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=819-raindrop&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#79583f",
+                    "name": "827",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-827&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#33271e",
+                    "name": "976 Taupe",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=976-taupe&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#c0d1e8",
+                    "name": "979 Pebbles",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=979-pebbles&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#452c0f",
+                    "name": "1065 Yellow",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1065-yellow&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#9b0a14",
+                    "name": "1299 Red",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1299-red&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#65644b",
+                    "name": "1477 Lime",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=1477-lime&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#e5ddc9",
+                    "name": "4145 \u00e5 \u00e5",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-4145&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#685c4e",
+                    "name": "4147",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=code-4147&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#c9dbe3",
+                    "name": "9130 Pink",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=9130-pink&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#dcd7ce",
+                    "name": "Beige",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=beige&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#6e6861",
+                    "name": "Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=brown&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#e1ebf7",
+                    "name": "Dark Brown",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=browndark&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#868686",
+                    "name": "Grey",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=grey&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#d0ddec",
+                    "name": "Light Blue",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=bluelight&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#736761",
+                    "name": "Petrol",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=petrol&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                },
+                {
+                    "hex": "#705e51",
+                    "name": "White",
+                    "direct_url": "https://www.ravelry.com/stash/search#colorway-link=white&photo=yes&view=thumbs&yarn-link=filcolana-vilja-former-indiecita"
+                }
+            ]
+        },
+        {
             "name": "West Yorkshire Spinners ColourLab DK",
             "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk",
             "colorways": [
